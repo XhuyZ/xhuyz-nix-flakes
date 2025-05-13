@@ -1,5 +1,10 @@
 { config, pkgs, ... }:
-
+let
+  nixvim = import (builtins.fetchGit {
+    url = "https://github.com/nix-community/nixvim";
+    ref = "nixos-24.11";
+  });
+in
 {
   home.username = "xhuyz";
   home.homeDirectory = "/home/xhuyz";
@@ -7,6 +12,7 @@
 
   # Import other modules
   imports = [
+    nixvim.homeManagerModules.nixvim
     ./programs/kitty/kitty.nix
     ./programs/git.nix
     ./programs/nushell/nushell.nix
