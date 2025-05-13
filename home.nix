@@ -11,7 +11,9 @@
     ./programs/git.nix
     ./programs/nushell/nushell.nix
     ./packages/default.nix
+    ./programs/nixvim/nixvim.nix
   ];
+
 
   programs.home-manager.enable = true;
 }
