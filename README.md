@@ -1,1 +1,5 @@
-# xhuyz-nix-flakes
+# Clone the repo
+## sudo rm -rf configuration.nix hardware-configuration.nix
+## sudo cp /etc/nixos/configuration.nix ~/xhuyz-nix-flakes/
+## sudo cp /etc/nixos/hardware-configuration ~/xhuyz-nix-flakes/
+## sudo nixos-rebuild switch --flake ~/xhuyz-nix-flakes/
