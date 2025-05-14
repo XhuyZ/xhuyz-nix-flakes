@@ -7,4 +7,5 @@
 ### nix-channel --update
 ### nix-shell '<home-manager>' -A install
 ### nix flake init -t github:nix-community/home-manager
+###   nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
