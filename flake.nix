@@ -14,20 +14,26 @@
   };
 
   outputs =
-    inputs@{ nixpkgs, home-manager, nixvim, ... }:
+    inputs@{
+      nixpkgs,
+      home-manager,
+      nixvim,
+      ...
+    }:
     {
       nixosConfigurations = {
         nixos = nixpkgs.lib.nixosSystem {
           system = "x86_64-linux";
           modules = [
             ./configuration.nix
+            ./hardware-configuration.nix
             home-manager.nixosModules.home-manager
             {
               home-manager.useGlobalPkgs = true;
               home-manager.useUserPackages = true;
               home-manager.users.xhuyz = import ./home.nix;
             }
-						nixvim.nixosModules.nixvim
+            nixvim.nixosModules.nixvim
           ];
         };
       };
