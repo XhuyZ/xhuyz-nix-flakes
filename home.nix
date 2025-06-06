@@ -1,14 +1,16 @@
 { config, pkgs, ... }:
 let
-  nixvim = import (builtins.fetchGit {
-    url = "https://github.com/nix-community/nixvim";
-    ref = "nixos-24.11";
-  });
+  nixvim = import (
+    builtins.fetchGit {
+      url = "https://github.com/nix-community/nixvim";
+      ref = "nixos-25.05";
+    }
+  );
 in
 {
   home.username = "xhuyz";
   home.homeDirectory = "/home/xhuyz";
-  home.stateVersion = "24.11";
+  home.stateVersion = "25.05";
 
   # Import other modules
   imports = [
@@ -17,10 +19,8 @@ in
     ./programs/git.nix
     ./programs/nushell/nushell.nix
     ./packages/default.nix
-    ./programs/nixvim/nixvim.nix
+    ./programs/nixvim/default.nix
   ];
-
 
   programs.home-manager.enable = true;
 }
-
