@@ -8,16 +8,15 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     nixvim = {
-      url = "github:XhuyZ/nixvim";
+      url = "github:nix-community/nixvim/nixos-25.05";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
 
   outputs =
-    inputs@{
+    {
       nixpkgs,
       home-manager,
-      nixvim,
       ...
     }:
     {
@@ -33,7 +32,6 @@
               home-manager.useUserPackages = true;
               home-manager.users.xhuyz = import ./home.nix;
             }
-            nixvim.nixosModules.nixvim
           ];
         };
       };
