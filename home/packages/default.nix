@@ -18,7 +18,6 @@
     pkgs.tree
     pkgs.zig_0_12
     pkgs.starship
+    pkgs.lazysql
   ];
 }
-
-

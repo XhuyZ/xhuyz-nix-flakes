@@ -1,4 +1,3 @@
-
 [[database]]
 Name = 'Local MySQL - Testnet'
 Provider = 'mysql'

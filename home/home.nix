@@ -7,10 +7,10 @@
 
   # Import other modules
   imports = [
-    ../programs/kitty/kitty.nix
-    ../programs/git.nix
-    ../programs/nushell/nushell.nix
-    ../packages/default.nix
+    ./programs/kitty/kitty.nix
+    ./programs/git.nix
+    ./programs/nushell/nushell.nix
+    ./packages/default.nix
   ];
 
   programs.home-manager.enable = true;

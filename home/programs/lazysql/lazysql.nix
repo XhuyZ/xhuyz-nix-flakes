@@ -1,4 +1,9 @@
-{ config, pkgs, dotfiles, ... }:
+{
+  config,
+  pkgs,
+  dotfiles,
+  ...
+}:
 
 {
   programs.lazysql = {
@@ -6,5 +11,3 @@
     extraConfig = builtins.readFile ./config.toml;
   };
 }
-
-
