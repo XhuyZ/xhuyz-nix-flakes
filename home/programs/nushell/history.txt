@@ -1,0 +1,10634 @@
+clear
+cd .config
+ls
+cd niri
+ls
+nvim config.kdl
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+yay -S starship
+pwd
+clear
+cd .config
+cd nushell
+ls
+nvim config.nu
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S lazysql
+pwd
+clear
+pwd
+clear
+cd .config/nvim
+cd .config
+git clone https://github.com/XhuyZ/nvim.git
+cd .config/niri
+ls
+cd AUR
+ls
+cd AUR
+git clone https://aur.archlinux.org/obs-studio-tytan652.git
+git clone https://aur.archlinux.org/vesktop.git
+git clone https://aur.archlinux.org/packages/dbeaver-ce-bin
+nvim config.kdl
+pwd
+clear
+pwd
+yay -S rofi
+rofi
+config nu
+pwd
+niriconfig
+yay -S dotnet-sdk-8.0
+yay -S dotnet-runtime-8.0
+yay -S aspnet-runtime-8.0
+clear
+lsd
+pwd
+yay -S nerd-fonts-git
+clear
+pwd
+config nu
+ff
+pwd
+clear
+pwd
+clear
+pwd
+btop
+yay -S tmux tmuxp github-cli
+archlinux-java status
+clear
+niriconfig
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+cd .config/nvim
+dotnet --version
+dotnet --list-sdks
+dotnet --list-runtimes
+pwd
+clear
+cd AUR
+ls
+cd vesktop
+node -v
+pwd
+clear
+yay -S chrome
+sudo pacman -S chrome
+makepkg -si
+cd AUR
+ls
+pwd
+git clone https://aur.archlinux.org/mssql-server.git &&<\n>git clone https://aur.archlinux.org/msodbcsql.git &&<\n>git clone https://aur.archlinux.org/mssql-tools.git
+git clone https://aur.archlinux.org/mssql-server.git;<\n>git clone https://aur.archlinux.org/msodbcsql.git;<\n>git clone https://aur.archlinux.org/mssql-tools.git
+pwd
+ls
+clear
+yay -S google-chrome
+lazysql
+pwd
+cler
+clear
+pwd
+clear
+pwd
+clear
+cd msodbcsql;makepkg -si
+cd ..
+ls
+cd obs-studio-tyyan652;makepkg -si
+cd obs-studio-tyan652;makepkg -si
+ls
+cd obs-studio-tytan652;makepkg -si
+ls
+cd ..
+ls
+cd mssql-server;makepkgs -si
+ls
+cd AUR
+ls
+cd mssql-server
+ls
+yay -S gawk gdb glibc krb5 libatomic_ops libc++
+makepkg -si
+yay -S lazygit zig lua-language-server vtsls marksman yaml-language-server texlab vscode-html-language-server clangd-opt
+pwd
+clear
+pwd
+clear
+cd
+pwd
+ls
+git clone https://github.com/XhuyZ/Learn_Microservices.git
+cd Learn_Microservices.git
+cd Learn_Microservices
+ls
+nvim 
+ls
+pwd
+clear
+git clone https://github.com/XhuyZ/dotfiles.git
+cd dotfiles
+ls
+nvim
+cd ..
+git clone https://github.com/XhuyZ/sql-scripts.git
+cd sql-scripts
+nvim
+pwd
+clear
+cd
+pwd
+yay -S numactl openssql-1.1 sssd libldap24
+sudo /opt/mssql/bin/mssql-conf setup
+cd
+sudo /opt/mssql/bin/mssql-conf setup
+cd AUR
+ls
+cd mssql-tools;makepkg -si
+sudo /opt/mssql/bin/mssql-conf setup
+cd
+sudo /opt/mssql/bin/mssql-conf setup
+pwd
+cd AUR
+ls
+cd msodbcsql;makepkg -sirc
+cd ..
+ls
+cd mssql-server;makepkgs -sirc
+cd mssql-server;makepkg -sirc
+cd AUR
+ls
+cd vesktop
+makepkg -sirc
+niriconfig
+pwd
+clear
+pwd
+clear
+makepkg -sirc
+sudo /opt/mssql/bin/mssql-conf setup
+cd dotfiles
+ls
+config nu
+nvim
+pwd
+lsd
+xhuyz
+pwd
+mssql-status
+config nu
+connect
+config nu
+connect
+pwd
+clear
+nvim ~/dotfiles/config.toml
+nvim ~/.config/lazysql
+nvim ~/.config/lazysql/config.toml
+ls
+clear
+lazysql
+nvim ~/.config/lazysql/config.toml
+lazysql
+lsd
+pwd
+clear
+pwd
+yay -S obs-studio
+pwd
+clear
+pwd
+yay -S mono-msbuild
+pwd
+swaybg
+ls
+sudo systemctl reboot
+pwd
+clear
+pwd
+clear
+yay -S postman
+cd Learn_Microservices
+nvim
+lsd
+nvim
+nvim 
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+cmatrix -a
+pwd
+clear
+pwd
+clear
+niri
+pwd
+clear
+ff
+xhuyz
+pwd
+clear
+exit
+nvim wallpaper.sh
+chmod +x wallpaper.sh
+pwd
+wallpaper.sh
+bash wallpaper.sh
+niriconfig
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd .config/nvim
+nvim
+cd
+niriconfig
+pwd
+clear
+pwd
+cler
+clear
+pwd
+clear
+pwd
+clear
+pwd
+yay -S nerd-fonts-git
+pwd
+clear
+yay -S ttf-hack-nerd
+pwd
+clear
+pwd
+clear
+confignu
+config nu
+cd Learn_Microservices
+nvim
+pwd
+clear
+pwd
+clear
+yay -S fira-code
+owd
+pwd
+clear
+niriconfig
+niri config
+niroconfig
+niriconfig
+niri validate
+niri config
+niri validate
+niriconfig
+yay -S ttf-fira-code
+pwd
+clear
+cd dotfiles
+nvim
+ls
+pwd
+niriconfig
+cd ~/.config
+cd waybar
+ls
+pwd
+clear
+mkdir waybar
+nvim config.jsonc
+waybar
+pwd
+clear
+pwd
+clear
+waybar
+exit
+pwd
+cd .config/waybar
+ls
+nvim modules.json
+ls
+nvim config.jsonc
+ls
+nvim style.css
+ls
+waybar
+sudo systemctl reboot
+pwd
+clera
+pwd
+clear
+pwd
+clear
+pwd
+clear
+exit
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S clangd
+niriconfig
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+niriconfig
+cd waybar
+cd .config/waybar
+niriconfig
+nvim config.jsonc
+sudo systemctl reboot
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+qutebrowser
+yay -S gdb
+ff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd dotfiles
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+lsd
+java --version
+pwd
+clear
+ff
+pwd
+clear
+niriconfig
+yay -S roslyn
+cd 
+cd Learn_Microservices
+pwd
+nvim
+ls
+pwd
+clear
+pwd
+clear
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+niriconfig
+ls
+cd Downloads
+ls
+yay -S unzip
+ls
+unzip commandlinetools-linux-13114758_latest.zip
+pwd
+ls
+cd cmdline-tools
+pwd
+nvim ~/dotfiles/env.nu
+nvim ~/.config/nushell/env.nu
+pwd
+cd
+cd .config/nushell
+nvim env.nu
+ls
+pwd
+clear
+yay -S gsconnect kdeconnect sshfs xdg-desktop-portal-wlr-git
+cd
+cd Downloads
+ls
+unzip platform-tools-latest-linux.zip
+ls
+config nu
+nvim ~/.config/nushell/env.nu
+ls
+cd cmdline-tools
+ls
+cd bin/latest
+ls
+cd bin
+ls
+yay -S sdkmanager
+cd
+sdkmanager --list
+ls
+pwd
+config nu
+nvim ~/.config/nushell/env.nu
+yay -S android-sdk-cmdline-tools-latest android-sdk-build-tools android-sdk-platform-tools android-emulator
+which android-sdk
+cd /opt
+ls
+cd androdi-sdk
+cd android-sdk
+ls
+nvim ~/.config/nushell/env.nu
+ls
+pwd
+clear
+pwd
+avdmanager
+advmanager
+adv
+pwd
+clear
+cd
+sdkmanager --list
+sdkmanager --update
+which sdkmanager
+yay -S sdkmanager
+cd Downloads
+ls
+cd /opt/android-sdk
+ls
+rm -rf cmdline-tools
+ls
+sudo rm -rf cmdline-tools
+ls
+cd ~/Downloads
+ls
+cd /opt/android-sdk
+mkdir cmdline-tools
+ls
+sudo mkdir cmdline-tools
+ls
+cd ~/Downloads
+ls
+cd cmdline-tools
+ls
+sudo cp * /opt/android-sdk/cmdline-tools/
+sudo cp -r * /opt/android-sdk/cmdline-tools/
+ls
+cd 
+cd /opt/android-sdk/cmdline-tools
+ls
+nvim ~/.config/nushell/env.nu
+clear
+sdkmanager --update
+cd 
+cd Downloads
+ls
+unzip commandlinetools-linux-13114758_latest(1).zip
+rm -rf cmdline-tools
+unzip commandlinetools-linux-13114758_latest(1).zip
+unzip commandlinetools-linux-13114758_latest.zip
+cd cmdline-tools
+ls
+nvim NOTICE.txt
+pwd
+cd /opt/android-sdk/cmdline-tools
+ls
+sudo rm -rf *
+ls
+mkdir latest
+sudo mkdir latest
+ls
+pwd
+ff
+clear
+ls
+cd latest
+ls
+nvim ~/.config/nushell/env.nu
+cd
+cd Downloads
+ls
+cd cmdline-tools
+ls
+sudo cp * /opt/android-sdk/cmdline-tools/latest
+sudo cp -r * /opt/android-sdk/cmdline-tools/latest
+ls
+cd
+cd /opt/android-sdk/cmdline-tools
+ls
+cd latest
+ls
+cd bin
+ls
+clear
+nvim ~/.config/nushell/env.nu
+sdkmanager --update
+sdkmanager
+yay -Rns sdkmanager
+sdkmanager 
+sdkmanager --update
+which sdkmanager
+pwd
+$env.ANDROID_SDK_ROOT
+nvim ~/.config/nushell/env.nu
+cd /opt/android-sdk/
+ls
+sudo rm -rf cmdline-tools
+ls
+cd
+cd Downloads
+ls
+mv cmdline-tools /opt/android-sdk/
+sudo mv cmdline-tools /opt/android-sdk/
+ls
+sdkmanager --update
+nvim ~/.config/nushell/env.nu
+sdkmanager --update
+cd /opt/android-sdk/
+ls
+nvim ~/.config/nushell/env.nu
+sdkmanager --update
+ls
+cd cmdline-tools
+ls
+sudo rm -rf *
+ls
+mkdir latest
+ls
+cd latest
+sudo cp -r ~/Downloads/cmdline-tools/* /opt/android-sdk/cmdline-tools/latest
+ls
+cd ~/Downloads
+ls
+pwd
+clear
+cd
+ls
+cd Downloads
+ls
+unzip commandlinetools-linux-13114758_latest.zip
+sudo cp -r ~/Downloads/cmdline-tools/* /opt/android-sdk/cmdline-tools/latest
+cd /opt
+cd androdi-sdk
+ls
+cd android-sdk
+ls
+cd cmdline-tools
+ls
+cd latest
+ls
+nvim ~/.config/nushell/env.nu
+clear
+sdkmanager --update
+sdkmanager --list
+ls
+cd /opt
+cd android-sdk
+ls
+cd cmdline-tools
+ls
+cd latest
+ls
+sdkmanager --list
+sdkmanager --update
+clear
+nvim ~/.config/nushell/env.nu
+nvim dotifles/env.nu
+nvim ~/dotfiles/env.nu
+lazygit
+␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀pwd
+clear
+cd
+clear
+pwd
+clear
+pwd
+clera
+clear
+cd dotfiles
+pwd
+clear
+pwd
+clera
+git config --global user.email "huylovengoc35@gmail.com"
+git config --global user.name "xhuyz"
+ls
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+cd dotfiles
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd
+clear
+sdkmanager "emulator"
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+avdmanager
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+pwd
+mkdir Android/Sdk/
+ls
+cd Android
+ls
+cd Sdk
+ls
+sudo cp -r ~/opt/android/sdk/* ~/Android/Sdk
+pwd
+cd /opt
+cd android-sdk/
+ls
+sudo cp -r * ~/Android/Sdk/
+ls
+cd 
+cd Android/Sdk
+ls
+nvim
+config nu
+nvim ~/dotfiles/env.nu
+nvim ~/.config/nushell/env.nu
+sdkmanager --list
+pwd
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+nvim ~/.config/nushell/env.nu
+sdkmanager --licences
+sdkmanager --licenses
+y
+clear
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+pwd
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"sdkmanager --sdk_root=$HOME/Android/Sdk \<\n>  "platform-tools" \<\n>  "platforms;android-30" \<\n>  "system-images;android-30;google_apis;x86"<\n>
+sdkmanager --sdk_root=$HOME/Android/Sdk \<\n>  "platform-tools" \<\n>  "platforms;android-30" \<\n>  "system-images;android-30;google_apis;x86"<\n>
+sdkmanager --sdk_root=$HOME/Android/Sdk ;<\n>  "platform-tools" ;<\n>  "platforms;android-30" ;<\n>  "system-images;android-30;google_apis;x86"
+pwd
+sdkmanager --list
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+sdkmanager --list | grep 'system-images;android-30;google_apis;x86'<\n>
+avdmanager list device
+nvim ~/.android
+avdmanager list device
+avdmanager list avd
+pwd
+sdkmanager "emulator"
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+pwd
+yay -Rns android-sdk
+pwd
+ls
+pwd
+cd
+$env.ANDROID_SDK_ROOT
+config nu
+cd .config/nushell
+nvim env.nu
+$env.ANDROID_SDK_ROOT
+pwd
+clear
+cd
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+sdkmanager --licenses
+pwd
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+ls
+pwd
+$env.ANDROID_SDK_ROOT
+pwd
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+which emulator
+which android-sdk
+pwd
+$env.ANDROID_SDK_ROOT
+ls
+pwd
+clear
+adb
+owd
+pwd
+clear
+sdkmanager "platform-tools"
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+sdkmanager --licenses
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+sudo groupadd android-sdk
+clear
+yay -S android-sdk-cmdline-tools-latest android-sdk-build-tools android-sdk-platform-tools android-emulator
+rm -rf .git
+ls
+cd /opt
+ls
+cd android-sdk/
+ls
+sudo groupadd android-sdk
+cd
+sudo groupadd android-sdk
+sudo chown -R root:android-sdk /opt/android-sdk
+sudo chmod -R g+rw /opt/android-sdk
+sudo find /opt/android-sdk -type d -exec chmod g+xs {} \;
+sudo usermod -aG android-sdk $USER
+sudo usermod -aG android-sdk $env.USER
+lsd
+pwd
+clear
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+yes | sdkmanager --licenses
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --licenses
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+sudo sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+sudo sdkmanager --licenses
+cd ~/Android
+cd Sdk
+ls
+cd cmdline-tools
+nvim
+cd latest
+cd bin
+ls
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+pwd
+sudo --licenses
+pwd
+sdkmanager --licenses
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+sdkmanager --update
+sdkmanager 
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+ls -la ~/Android/Sdk<\n>
+sudo chown -R $USER:$USER ~/Android/Sdk<\n>
+sudo chown -R $env.USER ~/Android/Sdk<\n>
+ls -la ~/Android/Sdk<\n>
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+ls -la ~/Android/Sdk<\n>
+sudo chown -R xhuyz:xhuyz ~/Android/Sdk<\n>
+ls -la ~/Android/Sdk<\n>
+ls
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+clear
+sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+clear
+ls -l ~/Android/Sdk<\n>
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --licenses<\n>
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager "system-images;android-34;google_apis;x86_64"<\n>
+avdmanager create avd -n my_avd -k "system-images;android-34;google_apis;x86" -d pixel
+cd
+~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --list<\n>
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager "system-images;android-34;google_apis;x86"<\n>
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager "system-images;android-34;google_apis;x86_64"<\n>
+avdmanager create avd -n my_avd -k "system-images;android-34;google_apis;x86_64" -d pixel
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+sdkmanager "system-images;android-34;google_apis;x86"<\n>
+sdkmanager "system-images;android-30;google_apis;x86"<\n>
+sdkmanager --licenses
+sdkmanager "system-images;android-30;google_apis;x86"<\n>
+ls -l ~/Android/Sdk<\n>
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+sdkmanager --list
+sdkmanager --update
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86_64" -d pixel
+cd Android/Sdk
+ls
+cd system-images
+ls
+cd android-30
+ls
+cd ..
+cd android-34
+ls
+cd google_apis
+ls
+ls -l ~/Android/Sdk<\n>
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager "system-images;android-34;google_apis;x86_64"<\n>
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis;x86_64" -d pixel<\n>
+nvim ~/.config/nushell/env.nu
+pwd
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis;x86_64" -d pixel<\n>
+avdmanager list device
+avdmanager list avd
+ls -R ~/Android/Sdk/system-images/android-34<\n>
+ls  ~/Android/Sdk/system-images/android-34<\n>
+ff
+pwd
+clear
+yes | ~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager "system-images;android-34;google_apis_playstore;x86_64"<\n>
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis_playstore;x86_64" -d pixel<\n>
+sdkmanager --list | grep "system-images;android-34"<\n>
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis;x86_64" -d "pixel"<\n>
+avdmanager list device
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis;x86_64" -d pixel_9_pro<\n>
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis;x86_64"
+avdmanager
+avdmanager create avd 
+cd
+yay -S android-studio
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis_playstore;x86_64"
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis_playstore;x86_64" -d pixel_9
+android-studio
+pwd
+sudo systemctl reboot
+clear
+pwd
+clear
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis_playstore;x86_64" -d pixel_9
+avdmanager list avd
+avdmanager create avd -n my_avd_34 -k "system-images;android-34;google_apis_playstore;x86_64" -d pixel_9_pro
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+avdmanager list avd
+emulator -avd my_avd
+ls
+pwd
+clear
+sudo pacman -S nvidia
+yay -S nvidia-550x-dkms
+yay -S nvidia
+git clone https://github.com/App-Aegis/AegisApp_FE.git
+cd AegisApp_FE
+ls
+npm install
+npm -v
+node -v
+yay -S npm
+emulator -avd my_avd
+npm install
+yay -S wayland
+sudo pacman -S libxcb libxkbcommon-x11 xcb-util xcb-util-image xcb-util-keysyms xcb-util-renderutil xcb-util-wm<\n>
+emulator -avd my_avd -qt-platform xcb<\n>
+QT_QPA_PLATFORM=xcb emulator -avd my_avd<\n>
+$env.DISPLAY
+emulator -avd my_avd 
+pwd
+clear
+pwd
+clear
+pwd
+clar
+ff
+clear
+pwd
+claer
+ff
+clear
+ff
+sudo systemctl reboot
+pwd
+clear
+pwd
+clear
+emulator -avd my_avd 
+pwd
+android-studio
+pwd
+cd .config/nushell
+nvim env.nu
+pwd
+emulator -avd my_avd 
+android-studio
+clear
+yay -S mtoolkit
+nvim env.nu
+pwd
+emulator -avd my_avd 
+android-studio
+pacman -S xorg-xwayland
+yay -S xorg-xwayland
+lsd
+cd dotfiles
+ls
+nvim .zshrc
+$env.GDK_BACKEND
+$env.GDK_BACKEND android-studio
+nvim .zshrc
+GDK_BACKEND=x11 android-studio
+DISPLAY=:0 GDK_BACKEND=x11 QT_QPA_PLATFORM=xcb android-studio<\n>
+pwd
+clear
+pwd
+clear
+pwd
+emulator -avd my_avd 
+sudo pacman -S libxcb libx11 libxext libxrender libxi libxrandr libxfixes libxcursor libxinerama libxkbcommon xcb-util xcb-util-image xcb-util-keysyms xcb-util-renderutil qt5-base qt5-wayland<\n>
+sudo pacman -S xcb-util-cursor<\n>
+cd
+cd .config/nushell
+nvim env.nu
+emulator -avd my_avd 
+nvim env.nu
+^env QT_QPA_PLATFORM=xcb DISPLAY=:0 emulator -avd my_avd<\n>
+$env.QT_QPA_PLATFORM=xcb;$env.DISPLAY=:0; emulator -avd my_avd<\n>
+emulator -avd my_avd<\n>
+niriconfig
+cd Pictures
+ls
+cd Screenshots
+ls
+kitten icat Screenshot from 2025-06-22 16-04-46.png
+nvim
+pwd
+clear
+pwd
+clear
+cd AegisApp_FE
+ls
+npm install
+emulator -avd my_avd<\n>
+npm start
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+pwd
+clear
+pwd
+claer
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd
+cd dotfiles
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+pwd
+clear
+pfetch
+yay -S pfetch
+pfetch
+clear
+pwd
+xhuyz
+cd
+cd .config/kitty
+ls
+cd .config/kitty
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim .config/kitty/kitty.conf
+pwd
+clear
+nvim .config/kitty/kitty.conf
+pwd
+nvim .config/kitty/kitty.conf
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim .config/kitty/kitty.conf
+pwd
+cd .config
+ls
+fzf
+nvim starship.toml
+pwd
+clear
+pwd
+clear
+ls
+pwd
+cd
+cd Learn_Microservices
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim ~/.config/starship.toml
+clear
+pwd
+clear
+pwd
+ls
+pwd
+clear
+pwd
+clear
+nvim ~/.config/starship.toml
+ls
+pwd
+clear
+pwd
+clear
+nvim ~/.config/starship.toml
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+cd 
+cd AegisApp_FE
+ls
+pwd
+clear
+pwd
+clear
+cmatrix -a
+pwd
+clear
+nvim 
+ls
+wpd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+lsdf
+pwd
+clear
+pwd
+clear
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+config nu
+pwd
+clear
+pwd
+clear
+avdmanager list avd
+emulator -avd xhuyz
+sdkmanager "system-images;android-34;google_apis;x86"<\n>
+sdkmanager "system-images;android-34;google_apis;x86_64"<\n>
+avdmanager create avd -n my_avd -k "system-images;android-34;google_apis;x86_64" -d pixel_9
+cd Android/Sdk
+cd system-images
+ls
+cd androdi-36
+cd android-46
+ls
+cd android-36
+ls
+pwd
+avdmanager create avd -n my_avd -k "system-images;android-36;google_apis_playstore;x86_64" -d pixel_9
+avdmanager list device
+avdmanager create avd -n Aegis -k "system-images;android-30;google_apis;x86" -d pixel_9_pro
+cd AegisApp_FE
+npm start
+emulator -avd Aegis
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwdc
+clear
+pwd
+exit
+rofi
+rofi -show window
+pwd
+eror
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+waybar
+pwd
+clear
+pwd
+clear
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+dotnet --list-runtimes
+pwd
+clear
+pwd
+clear
+niri --version
+yay -S niri
+pwd
+clear
+pwd
+clear
+lsd
+pwd
+clear
+yay -S wl-clipboard
+cava
+waybar
+pwd
+clear
+pwd
+ff
+niriconfig
+pwd
+clear
+pwd
+clear
+exit
+pwd
+sudo systemctl poweroff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim workflow.yaml
+ls
+pwd
+clear
+niriconfig
+config nu
+ls
+nvim ~/.config/nushell/env.nu
+dbeaver
+yay -Rns dbeaver
+cd AUR
+ls
+vesktop
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+git clone https://aur.archlinux.org/dbeaver-ce-bin.git
+cd dbeaver-ce-bin
+makepkg -sirc
+dbeaver
+pwd
+clear
+pwd
+clear
+dbeaver
+pwd
+nvim ~/.local/share/DbeaverData/workspace6/.metadata/.log
+ls
+./dbeaver-ce-bin.sh
+bash dbeaver-ce-bin.sh
+pwd
+nvim
+yay -Rns dbeaver
+pwd
+bash
+cd
+cd ~/.config
+ls
+cd nvim
+nvim
+cd ~/sql-scripts
+ls
+pwd
+cd .config/lazysql/config.toml
+cd .config
+cd lazysql
+ls
+nvim config.toml
+lazysql
+ls
+pwd
+clear
+cd
+pwd
+clear
+cd
+clear
+pwd
+clear
+lazysql
+ls
+cd sql-scripts
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd
+yay -S wpctl
+niriconfig
+cd dotfiles
+ls
+mkdir niri
+cd
+cd .config/niri
+ls
+sudo cp -r config.kdl ~/dotfiles/niri
+ls
+pwd
+clear
+cd 
+cd dotfiles
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+dbeaver
+clear
+nvim
+ls
+sudo cp -r .tmux.conf ~/
+tmux
+pwd
+clear
+pwd
+bash
+tmux
+which nu
+nvim .tmux.conf
+pwd
+tmux
+pwd
+clear
+pwd
+clear
+alacritty
+pwd
+clear
+pwd
+clear
+pwd
+clear
+tmux
+ls
+nvim .tmux.conf
+ls
+pwd
+tmux
+bash $SHELL
+bash echo $SHELL
+nvim .tmux.conf
+tmux
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+which nu
+nvim .tmux.conf
+tmux source-file ~/.tmux.conf<\n>
+tmux
+pwd
+clear
+pwd
+mkdir -p ~/.config/tmux/plugins/catppuccin
+mkdir ~/.config/tmux/plugins/catppuccin
+ls
+git clone -b v2.1.3 https://github.com/catppuccin/tmux.git ~/.config/tmux/plugins/catppuccin/tmux
+tmux source-file ~/.tmux.conf<\n>
+tmux
+nvim .tmuxp
+ls
+cd dotfiles
+nvim
+cd
+mkdir .tmuxp/
+ls
+cd dotfiles
+nvim 
+cp -r aegis.yaml ~/.tmuxp/
+ls
+cd
+cd .tmuxp
+ls
+nvim
+exit
+config nu
+basico
+pwd
+nvim .tmux.conf
+ls
+pwd
+config nu
+off
+pwd
+clear
+pwd
+clear
+pwd
+clear
+lsd
+pwd
+cd sql-scripts
+ls
+nvim
+mssql-status
+mssql-stop
+mssql-status
+mssql-start
+ls
+mssql-status
+cd sql-scripts
+yay -S libreoffice
+pwd
+clear
+pwd
+clear
+exit
+lazysql
+pwd
+clear
+lazysql
+nvim
+lazysql
+mssql-status
+pkill lazysql
+nvim
+pwd
+clear
+pwd
+cd sql-scripts
+lazysql
+pwd
+cd .config/lazysql
+nvim config.toml
+lazysql
+clear
+nvim
+ls
+nvim
+lazysql
+yay -S showmethekey
+clear
+ls
+clear
+nvim
+clear
+ls
+lazysql
+clear
+nvim
+ls
+lazysql
+nvim
+ls
+lazysql
+clear
+nvim
+ls
+nvim
+ls
+lazysql
+yay -S kdenlive
+nvim
+ls
+git clone https://github.com/XhuyZ/mssql.nvim.git
+cd mssql.nvim
+ls
+nvim
+yay -S fcitx5 fcitx5-gtk fcitx5-qt
+config nu
+cd .config/nushell
+nvim env.nu
+pwd
+config nu
+nvim env.nu
+nvim ~/dotfiles/env.nu
+yay -S fcitx5 config-tool
+fcitx5
+nvim ~/dotfiles/env.nu
+nvim ~/.bashrc
+pwd
+ff
+pfetch
+pwd
+config nu
+pwd
+clear
+config nun
+config nu
+pwd
+clear
+pwd
+clear
+pwd
+clear
+off
+pwd
+cler
+clear
+pwd
+chrome
+pwd
+clear
+pwd
+clar
+clear
+yay -S nixld
+cd .config/nvim
+qutebrowser
+clear
+pwd
+clear
+yay -S firefox-developer-edition
+firefox-developer-edition
+niriconfig
+cd .mozilla
+ls
+cd firefox
+ls
+firefox -P XhuyZ
+nvim
+pwd
+clear
+pwd
+clear
+cd
+cd mssql.nvim
+ls
+off
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+lazysql
+lsd
+wpd
+clear
+ls
+pwd
+lsd
+pwd
+clear
+cd mssql.nvim
+ls
+nvim
+cd ~/sql-scripts
+cd .config/nvim
+ls
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+off
+pwd
+clear
+cd sql-scripts
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+clear
+cd mssql.nvim
+cd
+cd mssql.nvim
+ls
+pwd
+gh auth login
+nvim
+yay -S curl
+nix repl
+pwd
+yay -S nix
+nix repl
+clear
+pwd
+clear
+nix flake init
+cd .config/
+ls
+cd nix
+pwd
+mkdir nix 
+ls
+cd nix
+nvim nix.conf
+pwd
+clear
+cd
+nix flake init
+clear
+pwd
+clear
+pwd
+claer
+clear
+pwd
+clear
+pwd
+clear
+pwd
+git clone https://github.com/XhuyZ/xhuyz-nix-flakes.git
+cd xhuyz-nix-flakes
+ls
+nvim
+ls
+pwd
+clear
+pwd
+clear
+cd 
+git clone https://github.com/XhuyZ/nixvim.git
+cd nixvim
+ls
+cd
+pwd
+cd Learn_Microservices
+ls
+./run-all.sh
+clear
+pwd
+nvim 
+clear
+exit
+nix develop
+pwd
+clear
+nvim
+lsd
+cd
+cd .config/nvim
+ls
+pwd
+yay -S nil_ls
+yay -S nix-language-server
+yay -S nil
+pkill vesktop
+pwd
+clear
+cd AegisApp_FE
+pwd
+npm start
+emulator -avd Aegis
+emulator -avd pixel
+emulator -avd my_avd
+ls
+pwd
+cd mssql.nvim
+nvim
+ls
+cd
+cd sql-scripts
+ls
+cd
+cd sql-scripts
+nvim
+yay -S fcitx5-bamboo
+pkill fcitx5
+yay -S fcitx5-bamboo
+xhuyz
+sudo rm /var/lib/pacman/db.lck<\n>
+yay -S fcitx5-bamboo
+fcitx5
+pwd
+clear
+pwd
+clear
+cd sql-scripts
+ls
+nvim
+ls
+pwd
+cd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+emulator -avd Aegis
+config nu
+cd .config/nushell
+nvim env.nu
+emulator -avd Aegis
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+xhuyz
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ls
+pwd
+clear
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+mkdir prn231
+cd prn31
+cd prn231
+ls
+clear
+mkdir dev
+cd dev
+git clone https://github.com/reflection-paradise/retake-prn.git -b dev
+clear
+git clone https://github.com/reflection-paradise/retake-prn.git -b dev
+ping google.com
+git clone https://github.com/reflection-paradise/retake-prn.git -b dev
+git clone https://github.com/reflection-paradise/retake-prn.git -b Develop
+ls
+cd retake-prn
+pwd
+clear
+pwd
+clear
+ls
+dotnet restore
+nvim
+cd APIGateway
+dotnet restore
+cd ..
+ls
+cd AdminService;dotnet restore;cd ..;cd AuthService;dotnet restore;cd ..;cd AuthService;dotnet restore;cd ..;cd BotService;dotnet restore;cd ..;cd DocumentService;dotnet restore;cd ..;cd NotificationService;dotnet restore;cd ..;cd OrderService;dotnet restore;cd ..
+pwd
+clear
+pwd
+ls
+cd NotificationService;dotnet restore
+cd ..
+cd OrderService;dotnet restore
+pwd
+dclear
+clear
+pdw
+clear
+ff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+cd ..
+pwd
+cd .config/lazysql
+nvim config.toml
+lazysql
+nvim config.toml
+lazysql
+pwd
+clear
+ls
+cd OrderService/API
+dotnet run
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ls
+pwd
+clear
+cd 
+cd .tmuxp
+nvim
+ls
+pwd
+clear
+config nu
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+cd prn231
+pwd
+ls
+cd dev
+pwd
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pdw
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd AndroidStudioProjects
+ls
+pwd
+cd test
+ls
+emulator -avd Aegis
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd prn231
+ls
+mkdir fe/ be/
+ls
+cd fe
+ls
+mkdir dev/ local/
+ls
+cd ..
+cd be
+mkdir dev/ local/
+ls
+cd ..
+yay -S yazi
+yazi
+ls
+mkdir pe
+rm -rf dev
+ls
+cd pe
+pwd
+clear
+pwd
+clear
+pwd
+dclear
+clear
+pwd
+clear
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd ..
+pwd
+mkdir prm392
+pwd
+clear
+pwd
+clear
+cd prm391
+cd prm392
+pwd
+clear
+pwd
+ls
+cd
+tmuxp
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd prm392
+cd
+cd .tmuxp
+ls
+nvim
+config nu
+fma
+nvim
+ls
+pwd
+clear
+pwd
+clear
+nvim
+cd
+cd prm392
+ls
+mkdir pe/ be/ fe/ 
+ls
+nvim ~/.tmuxp/fma.yaml
+fma
+clear
+fma
+pwd
+clear
+pwd
+clear
+ls
+pwd
+cd prm392/be
+ls
+cd ..
+cd fe
+ls
+git clone https://github.com/FootballMatchApp/FMA_BE.git
+ls
+rm -rf FMA_BE
+cd ..
+cd be
+git clone https://github.com/FootballMatchApp/FMA_BE.git
+ls
+cd FMA_BE
+pwd
+nvim
+cd ..
+cd fe
+ls
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+ls
+nvim
+cd prm392/fe
+ls
+cd FMA_FE
+ls
+nvim
+pwd
+clear
+cd
+nvim ~/.tmuxp/fma.yaml
+pwd
+clear
+nvim ~/.tmuxp/fma.yaml
+ls
+pwd
+clear
+pwd
+clear
+cd prm392/fe
+ls
+gh repo create
+clear
+pwd
+ls
+nvim
+ls
+cd FMA_FE
+ls
+nvim
+pkill android-studio
+ls
+pwd
+clear
+pwd
+clear
+cd ..
+ls
+ls -l
+pwd
+ls -al
+rm -rf .idea .gitignore .gradle 
+ls
+ls -al
+ls
+pwd
+cd FMA_FE
+ls
+nvim
+ls
+ls -al
+cd ..
+ls
+cd FMA_FE
+ls
+nvim
+ls
+pwd
+clear
+ls
+./gradlew assembleDebug<\n>
+nvim
+./gradlew assembleDebug<\n>
+adb install -r app/build/outputs/apk/debug/app-debug.apk
+adb shell am start -n com.example.fma_fe/.MainActivity
+:q
+exit
+chmod +x run.sh
+ls
+exit
+bash run.sh
+nvim
+emulator -avd Aegis
+cd
+nvim ~/.tmuxp/fma.yaml
+fma
+ls
+pwd
+pwd
+clear
+pwd
+clear
+ff
+exit
+pwd
+git clone https://github.com/Aegis/AegisApp_BE.git
+git clone https://github.com/App-Aegis/AegisApp_BE.git
+cd AegisApp_BE
+ls
+cd Aegis.UserService
+ls
+dotnet new webapi -n FMA.API -f net8.0
+ls
+dotnet new classlib -n FMA.BLL
+ls
+rm -rf FMA.BLL
+dotnet new classlib -n FMA.DAL -f net8.0
+dotnet new classlib -n FMA.BLL -f net8.0
+dotnet new classlib -n FMA.Common -f net8.0
+ls
+exit
+pwd
+clear
+cd FMA.API
+ls
+dotnet run
+dotnet run
+pwd
+exit
+ls
+cd .config/nvim
+nvim
+ls
+pwd
+exit
+exit
+pwd
+clear
+fma
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ls
+pwd
+clear
+cd AegisApp_BE
+ls
+cd FMA.DAL
+chmod +x package.sh
+bash package.sh
+dotnet list package
+nvim
+cd .config/nvim
+ls
+roslyn --version
+roslyn --stdio
+nvim
+ls
+nvim
+nvim
+pwd
+clear
+fma
+cd .config/nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+yay -S omnisharp
+pwd
+cd .config/nvim
+ls
+fma
+ls
+cd .config/nvim
+nvim
+pwd
+yay -S roslyn
+dotnet --version
+cd .cache
+cd
+cd .cache
+ls
+cd yay
+ls
+cd roslyn-git
+ls
+cd src
+ls
+cd roslyn
+ls
+dotnet --list-sdks
+nvim global.json
+yay -S roslyn
+yay -S dotnet-sdk-9.0
+pwd
+yay -S roslyn
+cd .config/nvim
+ls
+nvim
+cd .config/nvim
+nvim
+ls
+pwd
+clear
+pwd
+clear
+cd Learn_Microservices
+git clone https://aur.archlinux.org/roslyn-git.git
+cd roslyn-git
+ff
+pwd
+clear
+yay -Rns roslyn-git
+cd .config/nvim
+makepkg -sirc
+nvim
+nvim
+ls
+nvim
+cd .cache
+ls
+cd yay/roslyn
+ls
+cd yay
+ls
+cd roslyn-git
+ls
+cd src
+ls
+cd roslyn
+ls
+dotnet --version
+nvim global.json
+dotnet --version
+nvim global.json
+dotnet --version
+yay -S dotnet-runtime-9.0.105
+dotnet --list-runtimes
+yay -S dotnet-runtime-9.0
+dotnet --version
+pwd
+clear
+lsd
+nvim
+cd roslyn-git
+makepkg -sirc
+cd .cache
+ls
+cd yay
+ls
+cd roslyn-git
+ls
+cd src
+ls
+cd roslyn
+ls
+nvim PKGBUILD
+makepkg -sirc
+yay -S dotnet-sdk
+dotnet --version
+dotnet --list-sdks
+nvim PKGBUILD
+makepkg -sirc
+dotnet workload update
+nvim PKGBUILD
+yay -S dotnet-sdk-preview-bin
+nvim PKGBUILD
+yay -S dotnet-sdk-bin
+dotnet --version
+dotnet --list-sdks
+makepkg -sirc
+nvim global.json
+clear
+makepkg -sirc
+pwd
+clear
+cd 
+rm -rf roslyn-git
+sudo rm -rf roslyn-git
+pwd
+ff
+yay -S omnisharp-roslyn
+dotnet --version
+pwd
+dotnet --list-sdks
+dotnet --list-runtimes
+pwd
+clear
+nvim
+git clone https://aur.archlinux.org/roslyn-git.git
+cd roslyn-git
+ls
+pwd
+nvim PKGBUILD
+ls
+makepkg -sirc
+ls
+pwd
+cd
+nvim
+dotnet --version
+pwd
+ls
+dotnet --list-sdks
+yay -Rns dotnet-sdk-bin dotnet-sdk-preview-bin
+yay -Rns omnisharp-roslyn
+yay -Rns dotnet-sdk-bin dotnet-sdk-preview-bin
+yay -Rns dotnet-sdk-bin dotnet-sdk-preview
+yay -Rns dotnet-sdk-bin
+dotnet --version
+clear
+nvim
+yay -S omnisharp-roslyn
+ls
+cd .config/nvim
+nvim
+dotnet --list-runtimes
+dotnet --list-sdks
+dotnet --version
+ls ~/.local/share/nvim/mason/packages/roslyn/roslyn.dll<\n>
+cd .local
+cd share
+ls
+cd nvim
+ls
+cd mason
+s
+ls
+cd packages
+ls
+cd roslyn-unstable
+ls
+roslyn --version
+cd roslyn
+ls
+cd roslyn
+~/.local/share/nvim/mason/packages/roslyn-unstable/roslyn --stdio<\n>
+nvim
+clear
+pwd
+nvim
+cd Learn_Microservices
+xhuyz
+which dotnet
+nvim
+cd Learn_Microservices
+/usr/bin/dotnet --version
+cd Learn_Microservices
+ls
+cd .config/nvim
+yay -S omnisharp
+nvim
+cd Learn_Microservices
+nvim
+cd .config/nvim/
+nvim
+cd Learn_Microservices
+cd .config/nvim
+ls
+pwd
+cd Learn_Microservices
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd .config/nvim
+nvim
+cd Learn_Microservices
+nvim
+pwd
+clear
+pwd
+clearr
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+exit
+pwd
+clear
+yay -S rider
+clear
+pwd
+clear
+cd sql-scripts
+cd .config/lazysql
+ls
+lazysql
+cd .config/nvim
+nvim
+pwd
+clear
+pwd
+clear
+lazysql
+cd sql-scripts
+fma
+ls
+pwd
+claer
+clear
+ls
+dotnet new sln -n FootballMatchApp.sln
+dotnet sln add FMA.API/FMA.API.csproj;dotnet sln add FMA.BLL/FMA.BLL.csproj;dotnet sln add FMA.DAL/FMA.DAL.csproj; dotnet sln add FMA.Common/FMA.Common.csproj
+ls
+nvim
+rm -rf FootballMatchApp.sln.sln
+ls
+dotnet new sln -n FootballMatchApp
+dotnet sln add FMA.API/FMA.API.csproj;dotnet sln add FMA.BLL/FMA.BLL.csproj;dotnet sln add FMA.DAL/FMA.DAL.csproj; dotnet sln add FMA.Common/FMA.Common.csproj
+dotnet new tool-manifest
+dotnet tool install --local dotnet-ef
+nvim
+config nu
+pwd
+clear
+ls
+cd FMA.DAL
+scaffold2
+config nu
+nvim ~/.config/nushell/config.nu
+pwd
+clear
+nvim ~/.config/nushell/config.nu
+pwd
+scaffold2
+config nu
+pwd
+scaffold2
+config nu
+scaffold2
+cd AegisApp_BE
+nvim
+cd ..
+cd FMA.BLL
+dotnet list package
+cd FMA.BLL
+ls
+dotnet list package
+ls
+cd Aegis.UserService/Aegis.UserService.BLL
+ls
+dotnet list package
+dotnet restore
+dotnet list package
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection;dotnet add package BCrypt.Net-Next<\n>
+dotnet list package
+cd ..
+cd Aegis.UserService.API
+ls
+dotnet list package
+dotnet restore
+dotnet list package
+cd ..
+cd FMA.API
+dotnet list package
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection;dotnet add package BCrypt.Net-Next<\n>
+dotnet list package
+dotnet add package Swashbuckle.AspNetCore.Annotations
+dotnet list package
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection -v 11.1.0<\n>
+dotnet list package
+dotnet restore
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
+dotnet build
+dotnet list package
+dotnet add package Microsoft.AspNetCore.OpenApi
+dotnet list package
+dotnet add package Swashbuckle.AspNetCore.Annotations -v 6.6.2
+dotnet list package
+cd sql-scripts
+nvim
+nvim
+ls
+nvim
+git rm -r --cached .idea/<\n>
+git commit -m "chore: remove .idea from repo tracking"<\n>
+git push 
+cd FMA.API
+ls
+nvim
+yay -S jdtls
+ls
+jdtls
+jdtls --stdio
+pwd
+nvim
+ls
+cd ~/.config/nvim
+ls
+nvim
+ls
+nvim
+clear
+nvim
+nvim
+clear
+nvim
+which jdtls
+fma
+pwd
+config nu
+nvim ~/dotfiles/config.nu
+cd dotfiles
+ls
+run.sh
+ls
+bash run.sh
+pwd
+bash run.sh
+pwd
+bash run.sh
+emulator -avd my_avd
+bash run.sh
+nvim
+cd .config/nvim
+nvim
+run.sh
+bash run.sh
+run bash.sh
+bash run.sh
+emulator -avd Aegis
+bash run.sh
+fma
+pwd
+clear
+cd .tmuxp
+ls
+cd .config/nvim
+git clone https://github.com/App-Aegis/AegisApp_FE.git
+pwd
+clear
+npm start
+npm install react-native-reanimated
+npm install react-native-svg
+clear
+npm start
+npm install eas-cli
+eas login
+npm install -g eas-cli
+sudo npm install -g eas-cli
+eas login
+eas build:configure<\n>
+eas build -p android --profile preview --local<\n>
+eas build -p android --profile preview
+expo login
+npm install -g expo-cli
+sudo npm install -g expo-cli
+expo login
+eas build -p android --profile preview
+bash run.sh
+ls
+npm start
+nvim
+ls
+eas build -p android --profile local
+yay -S python-gbinder
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd AegisApp_FE
+pwd
+clear
+emulator -avd Aegis
+clear
+aegis
+clear
+aegis
+cd AegisApp_FE
+aegis
+pwd
+clear
+cd AegisApp_FE
+pwd
+cd AegisApp_FE
+npx expo export:web<\n>
+eas build -p android --profile preview
+npm start
+nvim
+eas build -p android --profile preview
+emulator -avd Aegis
+npm start
+nvim
+eas build -p android --profile preview
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+pwdc
+clear
+pwd
+cmatrix
+cd .config/nvim
+yay -Syu
+pwd
+cava
+ls
+pwd
+clear
+pwd
+clear
+pwd
+ff
+pfetch
+clear
+pwd
+clear
+off
+yay -S gnome-shell-extension-paperwm-git 
+paperwm
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim ~/.config/lazysql/config.toml
+nvim ~/dotfiles/config.toml
+pwd
+clear
+xhuyz
+cd nixvim
+nix develop
+pwd
+clear
+pwd
+clear
+cd
+git clone https://github.com/khaneliman/khanelivim.git
+cd khanelivim
+ls
+nix develop
+pwd
+nix run
+pwd
+clear
+cd
+pwd
+rm -rf khanelivim
+pwd
+cd
+ls
+lsd
+pwd
+clear
+pfetch
+clear
+bash run.sh
+fma
+pwd
+clear
+pwd
+clear
+xhuyz
+pwd
+clear
+neofetch
+fastfetch
+clear
+cd AegisApp_FE
+npx expo export --platform web
+eas deploy
+npm start
+eas deploy
+npm start
+eas deploy
+npm start
+eas deploy
+eas build -p android --profile preview
+nvim
+eas build -p android --profile preview
+eas build --platform web --profile preview
+eas build -p web --profile preview
+npm start
+nvim
+eas build -p android --profile preview
+npm start
+aegis
+clear
+bash run.sh
+fma
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S ssh
+nvidia-smi
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+claer
+ls
+clear
+cd AegisApp_FE
+npm start
+nvim
+cd
+mkdir huyok
+cd huyok
+nix flake init
+ls
+nvim flake.nix
+pwd
+nix develop
+ls
+nvim flake.nix
+nix develop
+pwd
+cd ~/dotfiles
+ls
+nvim
+cd
+cd AegisApp_FE
+cd huyok
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S kdiskmark-git 
+eas build -p android --profile preview
+eas deploy
+eas build:list
+eas update --branch main<\n>
+eas deploy
+eas build:list --limit 1<\n>
+eas submit --platform android<\n>
+eas deploy
+nvim
+npm start
+pwd
+eas build:list --limit 1<\n>
+eas update --branch main<\n>
+nvim
+eas update --branch main<\n>
+eas build -p android --profile preview
+git status
+clear
+eas login
+eas logout
+eas login
+eas build -p android --profile preview
+eas whoami
+npm start
+pwd
+eas build -p android --profile preview
+expo logout
+expo login
+eas build -p android --profile preview
+eas init
+nvim
+eas logout
+expo logout
+eas login
+eas build -p android --profile preview
+aegis
+pwd
+clear
+pwd
+clear
+pwd
+cear
+clear
+ff
+cmatri
+clear
+yay -S school
+yay -S asciiquarium
+asciiquarium
+yay -S sl
+sl
+yay -S cowsay
+cowsay
+yay -S pipe-sh
+yay -S pipe
+yay -S pipe.sh
+sudo pacman -S pipe.sh
+bash yay -S pipe.sh
+cd
+git clone
+git clone https://aur.archlinux.org/pipes.sh.git
+yay -S pipes.sh
+pipes.sh
+yay -S nyancat
+nyancat
+yay -S snake oneko
+snake
+oneko
+clear
+oneko
+toilet
+yay -S toilet figlet
+toilet
+clear
+toilet
+figlet
+toilet hello
+yay -S nivander
+yay -S nivanders
+oneko
+nyancat
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd AegisApp_FE
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd
+cd xhuyz-nix-flakes
+home-manager switch --flake#xhuyz
+home-manager switch --flake.#xhuyz
+home-manager switch --flake
+sudo nixos-rebuild switch
+clear
+pwd
+clear
+pwd
+home-manager init
+clear
+pwd
+clear
+cd ~/.config/nix
+ls
+nvim nix.conf
+pwd
+home-manager init
+clear
+nvim nix.conf
+pwd
+clear
+cd 
+cd dotfiles
+ls
+cd AegisApp_FE
+eas build -p android --profile preview
+eas deploy
+eas build:list --limit 1<\n>
+npm start
+nvim
+nyancat
+oneko
+pwd
+pipes.sh
+cmatrix -a
+nyancat
+snake
+clear
+cava
+yay -S cacafire
+wtf
+yay -S wtf
+clear
+hollywood
+yay -S hollywood
+clear
+pwd
+yay -S cbonsai
+cbonsai
+clear
+pwd
+clear
+pwd
+claer
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+ff
+pfetch
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+eas build -p android --profile preview
+eas deploy
+pwd
+cd AegisApp_FE
+npm start
+nvim
+npm start
+nvim
+cd AegisApp_FE
+nvim
+eas build -p android --profile preview
+eas deploy
+eas update --branch main<\n>
+eas deploy
+pwd
+clear
+pwd
+cd
+cd .config
+ls
+cd nushell
+pwd
+ls
+nvim history.txt
+cd 
+cd .config
+cp nushell/ ~/dotfiles
+sudo cp -r ~/dotfiles/nushell/ ~/.config/
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+cmatrix
+ff
+pwd
+clear
+ff
+pwd
+clear
+mkdir mssql
+cd mssql
+git clone https://aur.archlinux.org/mssql-server.git;<\n>git clone https://aur.archlinux.org/msodbcsql.git;<\n>git clone https://aur.archlinux.org/mssql-tools.git
+cd mssql-server;<\n>makepkg -sirc
+yay -S gawk gdb glibc krb5 libatomic_ops libc++
+makepkg -sirc
+pwd
+clear
+pwd
+clear
+cd dotfiles
+ls
+mkdir ~/.config/lazysql/
+cp -r config.toml ~/.config/lazysql/
+ls
+lazysql
+cd
+clear
+git clone https://github.con/XhuyZ/sql-scripts
+git clone https://github.con/XhuyZ/sql-scripts.git
+git clone https://github.con/XhuyZ/sql-script.git
+git clone https://github.com/XhuyZ/sql-scripts.git
+clear
+pwd
+clewar
+clear
+yay -S numactl openssql-1.1 sssd libldap24
+cd ..
+ls
+cd msodbcsql;makepkg -sirc
+cd ..
+ls
+cd mssql-tools;makepkg -si
+clear
+mssql-status
+mssql-start
+mssql-enable
+sudo systemctl enable mssql-server
+mssql-status
+sudo /opt/mssql/bin/mssql-conf setup
+cd
+sudo /opt/mssql/bin/mssql-conf setup
+cd mssql
+ls
+cd mssql-server;<\n>makepkg -sirc
+sudo /opt/mssql/bin/mssql-conf setup
+mssql-enable
+mssql-status
+clear
+sqlcmd -S localhost -U sa
+mssql-status
+clera
+sqlcmd -S localhost -U sa
+yay -S mono-msbuild
+clear
+sqlcmd -S localhost -U sa
+cler
+clear
+pwd
+clear
+cd 
+cd sql-scripts
+which $SHELL
+clear
+yay -Rns zsh
+nvim
+cd .config
+cd nvim
+ls
+nvim
+$env.SHELL
+chsh -s /usr/bin/nu
+sudo chsh -s /usr/bin/nu
+cd /etc/shells/
+ls
+pwd
+ff
+clear
+pwd
+clear
+lazysql
+clear
+pwd
+clear
+nvim
+pwd
+clear
+cd .config/hyper
+cd .config/hypr
+ls
+nvim
+cd
+gh auth login
+cd .config/hypr
+nvim
+clear
+pwd
+clear
+pwd
+clear
+lsd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+gh auth login
+clear
+cd .config/nvim
+ls
+nvim
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+xhuyz
+sudo pacman -S git gnome-keyring
+mkdir mysql
+cd mysql
+ls
+gh repo clone git clone https://aur.archlinux.org/mysql.git
+git clone git clone https://aur.archlinux.org/mysql.git
+ls
+git clone https://aur.archlinux.org/mysql.git
+cd mysql
+yay -S tlp
+clear
+yay -S fcitx5 fcitx5-gtk fcitx5-qt fcitx5-configtool fcitx5-bamboo
+pwd
+clear
+pwd
+clear
+cp -r mssql/ mysql/ ~/dotfiles
+sudo cp -r mssql/ mysql/ ~/dotfiles
+clear
+cd dotfiles
+ls
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S nix
+nvim
+ls
+pwd
+clear
+pwd
+clear
+ls
+cd
+ls
+pwd
+rm -rf dotfiles
+git clone https://github.com/XhuyZ/dotfiles.git
+rm -rf dotfiles/
+sudo rm -rf dotfiles
+clear
+cd dotfiles
+clear
+pwd
+clear
+cd
+cd .config
+cd nix
+ls
+cp -r ~/dotfiles/nix/ ~/.config
+ls
+cd nix
+ls
+cd
+nix run github:XhuyZ/nixvim
+git clone https://github.com/XhuyZ/nixvim.git
+cd nixvim;nix develop
+cd
+cd .config
+cd nix
+ls
+nvim nix.conf
+yay -S nix
+yay -S rider
+clear
+ls
+clear
+pwd
+cleara
+pwd
+clear
+pwd
+clear
+pwd
+celar
+java --version
+yay -S sdkmanager
+yay -S yazi unzip kdenlive 
+cd .config/nvim
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd 
+git clone https://github.com/XhuyZ/Learn_Microservices.git
+cd Learn_Microservices
+nvim
+yay -Rns roslyn-git;yay -S omnisharp-roslyn
+yay -S omnishapr-roslyn
+yay -S omnisharp-roslyn
+killall vesktop
+pwd
+clear
+pwd
+clear
+sudo tlp start
+tlp-stat -s
+tlp --version
+pwd
+clear
+pwd
+clear
+pdw
+pwd
+ff
+clear
+ff
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+cd Learn_Microservices
+nvim
+yay -S roslyn-language-server
+clear
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+makepkg -si --skippgpcheck
+ls
+clear
+sudo pacman -S mysql-workbench
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+pwd
+clear
+pwd
+clear
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo systemctl enable --now mysqld
+sudo systemctl restart mysqld
+mysql -u root -p
+sudo systemctl status mysqld
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+mysql -u root -p
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo systemctl enable --now mysqld
+sudo systemctl restart mysqld
+mysql -u root -p
+sudo systemctl restart mysqld
+pwd
+cear
+clear
+pwd
+clear
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo systemctl enable --now mysqld
+sudo systemctl stop --now mysqld
+sudo systemctl status mysqld
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo systemctl enable --now mysqld
+bash
+pwd
+clear
+sudo systemctl enable --now mysqld
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo systemctl enable --now mysqld
+sudo systemctl restart mysqld
+sudo systemctl stop --now mysqld
+ls
+pwd
+clear
+pwd
+clear
+pw
+dclear
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cmatrix
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ls
+config nu
+ls
+pwd
+clear
+mysql-stop
+sudo systemctl disable mysqld
+config nu
+ls
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo systemctl enable --now mysqld
+mysql-disable
+sudo systemctl enable --now mysqld
+mysql-disable
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ping google.com
+ls
+cd mysql
+ls
+cd mysql
+makepkg -si --skippgpcheck
+sudo rm -rf /var/lib/mysql
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+clear
+sudo systemctl enable --now mysqld
+sudo systemctl restart mysqld
+sudo systemctl status mysqld
+mysql -u root -p
+CLEAR
+clear
+pwd
+clear
+clear
+pwd
+clear
+lazysql
+cd
+lsd
+pwd
+clear
+git clone https://github.com/XhuyZ/setup-aspnet-3layers.git
+git clone https://github.com/XhuyZ/setup-aspnet-3layer.git
+ls
+cd setup-aspnet-3layer
+ls
+bash script.sh
+ls
+./db.sh
+nvim
+bash db.sh
+nvim
+bash db.sh
+mysql --version
+nvim
+ls
+nvim
+bash db.sh
+nvim
+bash db.sh
+lazysql
+nvim ~/.config/lazysql/config.toml
+clear
+lazysql
+lsd
+pwd
+clear
+pwd
+clear
+cd setup-aspnet-3layer/Testnet
+ls
+cd API
+dotnet run
+ls
+pwd
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+pwd
+clera
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+nvim
+lsd
+pwd
+clear
+exit
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+lsblk
+yay -S wimlib
+yay -S woeusb
+woeusb --help
+cd 
+yay -S gnome-disk-utility
+cd Downloads
+ls
+rm -rf *
+ls
+sudo rm -rf *
+ls
+rm -rf sources/
+sudo rm -rf sources/
+cd sources
+ls
+sudo rm -rf replacementmanifests/
+nvim
+ls
+pwd
+clear
+lsblk
+sudo woeusb --device Win10_22H2_English_x64v1.iso /dev/sda
+clear
+git clone https://aur.archlinux.org/woeusb.git
+cd woeusb
+makepkg -si 
+sudo woeusb --device ~/Downloads/Win10_22H2_English_x64v1.iso /dev/sda
+sudo unmount /dev/sda
+sudo umount /dev/sda
+lsblk
+sudo umount /dev/sda1;<\n>sudo umount /dev/sda2<\n>
+sudo umount /dev/sda1
+sudo umount /dev/sda1;<\n>sudo umount /dev/sda2<\n>
+sudo woeusb --device ~/Downloads/Win10_22H2_English_x64v1.iso /dev/sda
+lsd
+pwd
+clear
+pwd
+clear
+cd
+xhuyz
+clear
+pwd
+clear
+pwd
+clear
+pwd
+yay -Syu
+clear
+pwd
+clewar
+clear
+pwd
+clear
+pwd
+claer
+clear
+mssql-status
+mssql-stop
+mssql-status
+lazysql
+mssql-start
+lazysql
+mssql-stop
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+mysql-status
+lazysql
+mysql-stop
+lazysql
+clear
+pwd
+clear
+pwd
+clear
+pwd
+git clone https://github.com/XhuyZ/bash-scripts.git
+ls
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+cleawr
+clear
+cd bash-scripts
+ls
+nvim stop-services.sh
+chmod +x stop-service.sh
+ls
+bash chmod +x stopservices.sh
+chmod +x stop-service.sh
+ls
+git config --global user.name "xhuyz"
+git config --gloabl user.email "huylovengoc35@gmail.com"
+git config --global user.email "huylovengoc35@gmail.com"
+nvim
+chmod +x stop-service.sh
+yay -S chmod
+chmod +x stop-services.sh
+ls
+nvim
+bash stop-services.sh
+ls
+mssql-status
+mysql-status
+clear
+systemctl list-units --type=service --state=running<\n>
+mysql-start;mssql-start
+systemctl list-units --type=service --state=running<\n>
+bash stop-services.sh
+systemctl list-units --type=service --state=running<\n>
+nvim
+bash stop-services.sh
+systemctl list-units --type=service --state=running<\n>
+mssql-stop
+systemctl list-units --type=service --state=running<\n>
+clear
+pwd
+clear
+systemctl list-units --type=service --state=running<\n>
+ls
+nvim services-manager.sh
+chmod +x services-manager.sh
+bash services-manager.sh
+ls
+pwd
+date
+datetime
+pwd
+clear
+pwd
+clear
+ls
+nvim
+ls
+pwd
+systemctl list-units --type=service --state=running<\n>
+nvim
+pwd
+nvim
+bash services-manager.sh
+clear
+pwd
+clear
+pwd
+clear
+ls
+mssql-start;mysql-start
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ls
+systemctl list-units --type=service --state=running<\n>
+bash services-manager.sh
+mssql-status
+mysql-status
+clear
+nvim
+ls
+pwd
+bash services-manager.sh
+pwd
+clear
+pwd
+clear
+pwd
+clear
+mysql-status
+mysql-start;mysql-status
+bash services-manager.sh
+nvim
+mssql-status
+cd
+bash ~/bash-scripts/services-manager.sh
+clear
+pwd
+clear
+pwd
+celar
+clear
+pwd
+clear
+cd bash-scripts
+ls
+nvim
+ls
+pwd
+clear
+dbeaver
+config nu
+mssql-status
+pwd
+clear
+config nu
+serman
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+serman
+pwd
+clear
+pwd
+clear
+config nu
+cd dotfiles
+nvim
+dbeaver
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+serman
+clear
+pwd
+clear
+serman
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S docker-git
+which docker
+config nu
+docker-status
+docker-start
+docker-status
+serman
+docker-status
+docker-start
+serman
+docker-status
+docker info
+sudo systemctl start docker.socket
+docker info
+serman
+docker info
+sudo docker info
+clear
+docker-status
+serman
+clear
+sudo docker ps
+yay -S lazydocker
+lazydocker
+sudo lazydocker
+clear
+sudo docker run -it --rm archlinux bash -c "echo hello world"
+sudo docker ps
+docker ps
+sudo docker ps
+pwd
+clear
+yay -S docker-compose docker-desktop
+docker-status
+pwd
+clear
+pwd
+clear
+pwd
+clear
+docker run hello-world
+sudo docker run hello-world
+docker pull ubuntu
+sudo docker pull ubuntu
+sudo docker ps
+sudo docker info
+docker run -it --name my-ubuntu ubuntu<\n>
+sudo docker ps
+docker stop my-ubuntu
+lazydocker
+sudo docker run -it --name my-ubuntu ubuntu<\n>
+clear
+pdw
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+sudo docker ps
+lsd
+pwd
+clear
+cd .config/hypr
+ls
+nvim
+hyprctl monitors all
+ff
+clear
+pfetch
+clear
+pfetch
+ifconfig
+ip addr
+pwd
+cler
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+claer
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pdw
+clear
+pwd
+clear
+pwd
+clawer
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+sudo docker ps
+cd /var
+cd lib
+cd docker
+ls
+cd docker
+cd
+cd /varsudo ls /var/lib/docker/containers<\n>
+sudo ls /var/lib/docker/containers<\n>
+sudo docker ps -a
+pwd
+clear
+pwd
+clear
+sudo docker ps
+clear
+pwd
+clear
+sudo lazydocker
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pdw
+clear
+pwd
+clear
+pwd
+clear
+ls
+pwd
+clear
+ls
+cd dotfiles
+ls
+cp -r starship.toml ~/.config/
+ls
+clear
+pwd
+clear
+ls
+pwd
+clear
+pwd
+cd .config/starship.toml
+cd .config
+nvim starship.toml
+pwd
+clear
+pwd
+clear
+ff
+fasdf
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+sudo docker ps
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S nix
+clear
+cd ~/nixvim
+ls
+nix develop
+sudo nix develop
+cd 
+cd .config
+cd nix
+ls
+nvim nix.conf
+cd
+cd /etc
+ls
+cd nix
+ls
+nvim nix.conf
+sudo nvim nix.conf
+cd
+cd nixvim
+nix develop
+sudo nix develop
+clear
+pdw
+clear
+pwd
+clear
+cd
+pwd
+clear
+pwd
+clear
+gh repo create
+cd docker-nix
+ls
+pwd
+clear
+nvim docker.nix
+nix-build docker.nix
+sudo nix-build docker.nix
+sudo nix build docker.nix
+sudo nix-build docker.nix
+nvim
+nix-build test.nix
+sudo nix-build test.nix
+nix flake init
+sudo nix flake init
+ls
+nvim flake.nix
+ls
+pwd
+clear
+pwd
+clera
+pwd
+clear
+pwd
+clear
+hydectl themes import
+yay -S Konsole
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+pwd
+clear
+pwd
+clear
+pwd
+hydectl theme import
+clera
+pwd
+clear
+sudo lazydocker
+ls
+cd .config
+cd
+cd .config/nvim
+nvim
+ls
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pdw
+pwd
+clear
+pwd
+cd .config/hypr
+ls
+nvim
+ls
+pwd
+clear
+pwd
+cava
+yay -S cava
+pwd
+clear
+pwd
+clear
+cmatrix
+yay -S nyancat
+pwd
+serman
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+pdw
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+yay -S openssh-server
+yay -S ssh
+yay -S openssh
+clear
+pwd
+cmatrix
+lazydocker
+clear
+sudo lazydocker
+docker-status
+docker-start
+serman
+pwd
+clear
+sudo lazydocker
+ls
+sudo docker ps
+sudo lazydocker
+sudo docker ps
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+sudo lazydocker
+yay -S rustup cargo
+pwd
+clear
+rustup --version
+cargo --version
+pwd
+clea
+rpwd
+clear
+pwd
+cargo new rustbegin
+cargo new rustbegin_console
+yay -S rustup-git
+yay -S rust
+cargo new rustbegin
+ls
+cd rustbegin
+ls
+git remote origin add https://github.com/XhuyZ/rustbegin.git
+git remote add origin https://github.com/XhuyZ/rustbegin.git
+git branch -M main
+git pull origin main
+ls
+nvim
+cargo run
+cargo test
+fcitx5
+lsd
+pwd
+clear
+pwd
+clear
+nvim
+cargo run
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+mkdir .github/workflows
+nvim rust.yml
+ls
+cd .github
+ls
+cd workflows
+ls
+nvim rust.yml
+ls
+cd ..
+ls
+rm -rf rust.yaml
+ls
+rm -rf rust.yml
+ls
+nvim
+ssh --version
+cd
+cd 
+clear
+ssh xhuyz@192.168.175.128
+sudo systemctl status sshd
+sudo systemctl start sshd
+sudo systemctl status sshd
+ssh xhuyz@192.168.175.128
+ping 192.168.175.128
+ssh xhuyz@192.168.175.128
+ip a
+ping 192.168.1.14
+clear
+pwd
+clear
+pwd
+clear
+exit
+ip a
+cd xhuyz-nix-flakes
+git clone https://github.com/XhuyZ/xhuyz-nix-flakes.git
+cd xhuyz-nix-flakes
+ip a
+ping google.com
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+serman
+pwd
+clear
+pwd
+clear
+ff
+clear
+ping google.com
+ls
+pwd
+clear
+config nu
+ls
+cd .tmuxp
+ls
+mkdir .tmuxp/
+ls
+cd dotfiles/.tmuxp
+ls
+sudo cp -r * ~/.tmuxp/
+ls
+cd
+cd .tmuxp
+ls
+cd
+ls
+cd dotfiles
+ls
+nvim .tmux.conf
+cp -r .tmux.conf ~/
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim .tmux.conf
+tmux source-file ~/.tmux.conf<\n>
+cd dotfiles
+ls
+cp -r tmux/ ~/.config/
+ls
+cd .config/tmux
+ls
+cd ~/.config/tmux
+ls
+tmux source-file ~/.tmux.conf<\n>
+ls
+spwd
+pwd
+clear
+cd
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+tmux source-file ~/.tmux.conf<\n>
+cd .config/tmux
+ls
+cd plugins
+ls
+pwd
+cd
+tmux source-file ~/.tmux.conf<\n>
+nvim .tmux.conf
+cd .config
+ls
+rm -rf tmux
+ls
+cd tmux
+ls
+pwd
+mkdir -p ~/.config/tmux/plugins/catppuccin
+mkdir  ~/.config/tmux/plugins/catppuccin
+ls
+git clone -b v2.1.3 https://github.com/catppuccin/tmux.git ~/.config/tmux/plugins/catppuccin/tmux
+ls
+tmux source-file ~/.tmux.conf<\n>
+basico
+ls
+pwd
+clear
+ls
+nvim .tmuxp/fma.yaml
+mkdir prm392;mkdir prn231;cd prm392;mkdir fe be pe
+ls
+cd ..
+cd prn231;mkdir be fe pe
+ls
+cd
+cd prn392
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pdw
+pwd
+clear
+cd prm392/be
+ls
+git clone https://github.com/FootballMatchApp/FMA_BE.git
+ls
+cd FMA_BE
+ls
+nvim .tmuxp/fma.yaml
+nvim /.tmuxp/fma.yaml
+nvim ~/.tmuxp/fma.yaml
+cd ..
+ls
+cd ..
+ls
+cd fe
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+ls
+pwd
+fma
+pwd
+clear
+pdw
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+f
+ff
+clear
+ff
+clear
+pwd
+clear
+ff
+cmatrix
+clear
+pwd
+clear
+ping google.com
+ls
+pwd
+clear
+ping google.com
+pwd
+clear
+ping google.com
+pwd
+cmatrix
+ping google.com
+npm -v
+node -v
+clear
+pwd
+ls
+gh repo create
+pwd
+clear
+pwd
+clear
+sudo  npm install -g @nestjs/cli
+cd Learn_NestJS
+ls
+nest new test
+ls
+nest g module users
+nest g controllers user
+nest g controller users
+nvim
+cd .config/nvim
+yay -S typescript-language-server
+ts_ls
+nvim
+clear
+nvim
+pwd
+cd Learn_NestJS
+ls
+yay -S typescript-language-server
+nvim
+cd ~/.config/nvim
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd Learn_NestJS
+ls
+nvim
+npm start
+cd test
+npm run start:dev
+npm start
+ls
+pwd
+clear
+cd test;npm start
+pwd
+clear
+cd
+git clone https://github.com/mikemajesty/nestjs-microservice-boilerplate-api.git
+cd nestjs-microservice-boilerplate-api
+ls
+pwd
+nvim
+npm start
+yay -S nvm
+nvm use
+nvm --version
+yay -S nvm
+yay -S yarn pnpm
+pwd
+clearn
+clear
+pwd
+clear
+pwd
+clear
+cd
+pwd
+ff
+lsd
+ff
+$env.NU_LIB_DIRS
+plugin list
+plugin add nu_plugin_polars
+use polars
+plugin list
+polars
+clear
+polars help
+polars
+plugin list
+cd setup-aspnet-3layer/Testnet
+polars summary
+plugin use polars
+polars summary
+use polars
+use polar
+ls | polars into-df | describe
+pwd
+ls
+open API.sln
+ls
+cd
+cd bash-scripts
+ls
+open services-manager.sh
+ls
+cd ~/.tmuxp
+ls
+open aegis.yaml
+cd ~/.config/lazysql;open config.toml
+pwd
+clear
+ff
+pwd
+clear
+ls
+nvim config.toml
+open config.toml
+ls
+cd
+cd ~/.tmuxp
+ls | reverse
+ls
+open ~/.config/lazysql/config.toml | get url
+open ~/.config/lazysql/config.toml | get URL
+open ~/.config/lazysql/config.toml
+open ~/.config/lazysql/config.toml | get database
+nvim ~/.config/lazysql/config.toml
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+cclear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clea
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+plugin list
+polars when
+ping google.com
+pwd
+ff
+clear
+ff
+cd nixvim
+ls
+nix develop
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+basico
+ls
+lazydocker
+lazysql
+ls
+pwd
+cd .tmuxp
+ls
+nvim aegis.yaml
+ls
+fma
+clear
+fma
+cd .tmuxp
+ls
+nvim 
+fma
+nvim 
+nvim
+fma
+ls
+serman
+mssql-status
+mssql-start
+lazysql
+mssql-status
+ls
+pwd
+lazysql
+ls
+pwd
+clear
+nvim
+fma
+lazysql
+nvim .tmux.conf
+nvim ~/.tmux.conf
+jjj
+fma
+nvim 
+jjj
+lazysql
+nvim
+fma
+pwd
+clear
+fma
+pwd
+clear
+cd ~/sql-scripts
+ls
+fma
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+celar
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+ls
+nvim
+nvim ~/dotfiles/.tmuxp
+nvim ~/tmux.conf
+nvim ~/.tmux.conf
+cd ~/dotfiles
+nvim
+pwd
+clear
+pwd
+clear
+cmatrix
+fma
+clear
+pwd
+clear
+mssql-status
+serman
+mssql-status
+clear
+pwd
+clear
+pwd
+clear
+$env.USER
+sudo usermod -aG docker $env.USER
+bash
+docker-start
+docker-status
+sudo usermod -aG docker $env.USER
+clear
+sudo usermod -aG docker $(whoami)<\n>
+whoami
+sudo usermod -aG docker $env.whoami
+bash sudo usermod -aG docker $(whoami)
+groups
+ls
+lazydocker
+sudo groupadd docker
+bash sudo usermod -aG docker $env.USER
+sudo usermod -aG docker $env.USER
+docker-restart
+docker-status
+clear
+sudo usermod -aG docker $env.USER
+lazydocker
+groups
+sudo usermod -aG docker $env.USER
+clear
+pwd
+celar
+cd
+clear
+pwd
+clear
+sudo docker ps
+sudo docker ps -a
+lazydocker
+sudo lazydocker
+lazydocker
+sudo lazydocker
+sudo docker pull nixos/nix
+sudo docker ps -a
+sudo lazydocker
+sudo docker run -it --name nix-dev nixos/nix<\n>
+sudo lazydocker
+docker-stop
+sudo lazydocker
+docker-stop
+serman
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwdc
+clear
+pwd
+clera
+pdw
+clear
+pwd
+serman
+clear
+pwd
+git clone https://github.com/XhuyZ/docker-nix.git
+cd docker-nix
+ls
+rm -rf docker.nix flake.nix test.nix
+ls
+pwd
+nvim dockerfile
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+docker build -t docker-nix:xhuyz .
+docker-start
+docker-status
+docker build -t docker-nix:xhuyz .
+nvim dockerfile
+docker build -t docker-nixvim:xhuyz .
+1pwd
+sudo lazydocker
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+docker run -it --name nixvim docker-nixvim:xhuyz
+ls
+sudo lazydocker
+docker run nixvim
+clear
+sudo docker ps -a
+sudo docker run -it --name nixvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+docker-status
+exit
+serman
+pwd
+clear
+docker-status
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+docker login
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd
+cd .config/nvim
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+ls
+cd
+pwd
+clear
+pwd
+yay -S docker-compose
+clear
+docker compose --version
+docker compose version
+clear
+pwd
+docker login
+docker-start
+ls
+pwd
+clear
+pwd
+clear
+docker-status
+clear
+sudo lazydocker
+cd .docker
+ls
+nvim config.json
+docker login
+ls
+pwd
+clear
+nvim config.json
+pwd
+clear
+docker info
+clear
+pwd
+clear
+docker pull postgres
+sudo lazydocker
+docker run --name postgres postgres
+sudo docker run --name postgres postgres
+pwd
+sudo lazydocker
+docker compose version
+ls
+cd
+cd docker-nox
+cd docker-nix
+ls
+nvim dockerfile
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+celar
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+cd
+mkdir test;cd test
+ls
+nvim docker-compose.yaml
+docker compose up
+cd test
+ls
+nvim
+sudo nvim
+sudo docker ps
+cd test
+ls
+yay -S dbee
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd dbee
+ls
+cd .config/dbee
+ls
+serman
+pwd
+docker-status
+pwd
+clear
+pwd
+clear
+docker-start
+docker-status
+clear
+serman
+clear
+pwd
+clear
+sudo lazydocker
+cd test
+ls
+pwd
+clear
+pwd
+clear
+docker pull postgres:17.5
+pwd
+clear
+sudo docker ps -a
+ls
+pwd
+sudo lazydocker
+cd test
+ls
+dbeaver
+nvim
+clear
+docker-stop
+pwd
+clear
+serman
+clear
+pwd
+clear
+docker-start
+docker-status
+clear
+pwd
+clear
+ff
+clear
+yay -S jdk-openjdk
+java --version
+yay -S unxip
+yay -S unzip
+ls
+lsd
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd Downloads
+ls
+mkdir ~/Android/Sdk
+cd .config/nushell
+unzip commandlinetools-linux-13114758_latest.zip
+ls
+nvim
+mkdir ~/Android/Sdk/cmdline-tools/latest/
+cd cmdline-tools
+ls
+cp -r bin/ ~/Android/Sdk/cmdline-tools/latest/
+cd
+cd Android/Sdk
+ls
+cd cmdline-tools
+yazi
+clear
+nvim
+$env.ANDROID_SDK_ROOT
+yay -S sdkmanager
+yay -S android-emulator
+yay -S android-sdk-build-tools
+yay -S android-sdk-platform-tools
+yay -S android-emulator
+which docker
+which android-sdk
+which android
+yay -S android-sdk
+which android
+which android-sdk
+cd
+git clone https://aur.archlinux.org/android-emulator.git;cd android-emulator;makepkg -si
+cd
+cd /opt/android-sdk/
+ls
+sudo cp -r build-tools/ ~/Android/Sdk;sudo cp -r emulator/ ~/Android/Sdk;sudo cp -r platform-tools ~/Android/Sdk
+cd
+cd Android/Sdk
+ls
+nvim
+nvim env.nu
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+exit
+clear
+sdkmanager "emulator"
+cd
+$env.ANDROID_SDK_ROOT
+$env.ANDROID_HOME
+sdkmanager list
+sdkmanager --list
+sdkmanager --update
+sdkmanager --licenses
+sdkmanager --update
+yay -Rns sdkmanager
+sdkmanager --update
+yay -S sdkmanager 
+cd .config/nushell
+nvim
+cd Android/Sdk
+nvim
+cd ..
+nvim
+~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --update
+~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --version
+which sdkmanager
+cd /usr/bin/sdkmanager
+ls
+cd /usr/bin/
+sdkmanager --update
+~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --list
+cd ~/Android/Sdk
+ls
+rm -rf cmdline-tools
+ls
+sudo cp -r ~/Downloads/cmdline-tools/ ~/Android/Sdk
+ls
+nvim
+clear
+pwd
+clear
+docker-status
+clear
+pwd
+clear
+pwd
+clear
+ping google.com
+sdkmanager --updat
+sdkmanager --update
+yay -Rns sdkmanager
+sdkmanager --update
+rm -rf cmdline-tools
+ls
+sudo rm -rf cmdline-tools
+mkdir cmdline-tools/latest
+sudo cp -r ~/Downloads/cmdline-tools/ ~/Android/Sdk/cmdlinetool/latest/
+mkdir ~/Android/Sdk/cmdline-tools/latest/
+sudo cp -r ~/Downloads/cmdline-tools/ ~/Android/Sdk/cmdlinetool/latest/
+sudo cp -r ~/Downloads/cmdline-tools/ ~/Android/Sdk/cmdline-tools/latest/
+ls
+nvim
+sudo rm -rf cmdline-tools
+mkdir ~/Android/Sdk/cmdline-tools/latest/
+sudo cp -r ~/Downloads/cmdline-tools/* ~/Android/Sdk/cmdline-tools/latest/
+ls
+nvim
+ls
+sdkmanager --update
+sdkmanager --list
+cd /opt
+fzf
+cd /opt/android-sdk/
+ls
+sdkmanager --update
+which android-emulator
+clear
+cd
+pwd
+clear
+sdkmanager "emulator"
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+emulator -avd my_avd
+avdmanager list device
+avdmanager list avd
+emulator -avd my_avd
+avdmanager list avd
+emulator -avd my_avd
+$env.ANDROID_HOME
+$env.ANDROID_SDK_ROOT
+cd .config/nushell
+nvim
+mv ~/.config/.android ~/.android<\n>
+emulator -avd my_avd
+which emulator
+cd Android/Sdk
+cd ~/Android/Sdk
+nvim
+which emulator
+mkdir -p ~/.android/avd<\n>
+mkdir ~/.android/avd<\n>
+mv ~/.config/.android/avd/* ~/.android/avd/<\n>
+cd .config/.android
+ls
+cd .config
+ls
+cd .android/
+emulator -list-avds
+emulator -avd my_avd
+yay -S android-studio
+adb
+emulator -avd my_avd
+bash
+yay -S gnome
+docker-stop
+serman
+clear
+yay -S gnome
+xhuyz
+yay -S gnome
+emulator -avd my_avd
+yay -S android-emulator
+emulator -avd my_avd
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+yay -Rns android-studio
+docker-start
+docker-status
+serman
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pdw
+clear
+pwd
+clear
+docker-status
+pwd
+clea
+ff
+clear
+ff
+docker-stop
+serman
+pwd
+clear
+pwd
+clear
+pwd
+cd prn231
+ls
+cd
+ls
+git clone https://github.com/App-Aegis/AegisApp_BE.git
+cd AegisApp_BE/Aegis.UserService/Aegis.UserService.DAL
+ls
+cp -r migration.sh package.sh ~/bash-scripts
+cd
+cd bash-scripts
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+config nu
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pdw
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+cear
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+ssh xhuyz@127.17.183.212
+ssh xhuyz@127.17.191.255
+ssh xhuyz@127.17.183.212
+clear
+ssh xhuyz@192.168.1.24
+serman
+pwd
+clear
+pwd
+clear
+cd .config/nvim
+ls
+nvim
+clear
+pwd
+clear
+pwd
+clear
+ff
+cmatrix
+serman
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clewar
+clear
+pwd
+clear
+pwd
+clear
+serman
+clear
+pwd
+clear
+nest new fma-api
+cd fma-api
+ls
+npm start
+pwd
+clear
+nest g controller mock
+nvim
+pwd
+cd
+ls
+cd sql-scripts
+ls
+yay -S libreoffice
+ls
+nvim
+cd
+ls
+nest g controller auth
+nest g controller posts
+nvim
+npm start:dev
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+pwd
+ff
+clear
+ff
+clear
+tmux
+cd fma-api
+lsd
+pwd
+ls
+lazysql
+mssql-start
+nvim
+git branch -M main
+git remote add origin https://github.com/FootballMatchApp/fma-api.git
+git pull origin main
+git add .
+git commit -m "init fake api"<\n>
+git push origin main
+nvi,
+lazysql
+ff
+clear
+xhuyz
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ping youtube.com
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd fma-api
+nest g controller matchpost;nest g controller pitch;nest g controller team 
+exit
+npm start
+npm start 
+npm start
+pacman -Q jq
+clear
+pwd
+yay -S postman
+clear
+ff
+clear
+npm start
+nest g profile
+nest g controller profile
+nvim
+clear
+pwd
+celar
+clear
+pwd
+yay -S tlp
+sudo tlp start
+serman
+sudo tlp start
+config nu
+tlp-enable
+tlp-enable;tlp-start
+serman
+tlp-start
+serman
+clear
+pwd
+sudo tlp-stat
+sudo tlp-stat | grep RDW
+yay -S tlp-rdw
+sudo tlp-stat | grep RDW
+clear
+yay -S smartmontools
+sudo tlp-stat
+bluetooth-status
+clear
+sudo systemctl status bluetooth.service
+fzf
+cd /etc/tlp
+cd /etc
+ls
+fzf
+nvim tlp.conf
+lsusb
+lspci
+lsusb
+sudo lshw | grep -i wwan
+sudo nvim tlp.conf
+ls
+pwd
+clear
+ff
+cmatrix
+cbonsai
+clear
+pwd
+nyancat
+clear
+ping google.com
+cd fma-api
+pwd
+clear
+sudo docker ps -a
+docker-start
+sudo docker ps -a
+sudo lazydocker
+ls
+nvim
+sudo lazydocker
+clear
+pdw
+f
+ff
+clear
+ff
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+sudo tlp start
+clear
+npm start
+pwd
+mssql-start
+serman
+docker-stop
+serman
+npm start
+lazysql
+npm start
+cd .config/nvim
+nvim
+yay -S prettier
+cd .config/nvim
+nvim
+cd .config/nvim
+nvim
+lazysql
+docker-start
+docker-status
+config nu
+docker-stop
+docker-status
+serman
+clear
+serman
+clear
+yay -S cursor
+yay -S cursor-bin
+ff
+sudo tlp-stat
+pwd
+clear
+ff
+cd
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pdw
+clear
+ff
+clear
+1
+pwd
+cd HyDE
+ls
+cd Scripts
+./install.sh
+ff
+clear
+pwd
+clear
+pwd
+f
+ff
+clear
+pwd
+serman
+clear
+sudo tlp start
+clear
+pwd
+f
+cd fma-api
+ls
+mssql-start
+mssql-status
+clear
+nvim
+npm install -g @google/gemini-cli
+sudo npm install -g @google/gemini-cli
+cd .config/nushell
+nvim
+cd fma-api
+npm start
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+serman
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd fma-api
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+nvim
+cd
+cd .config/nvim
+nvim
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pdw
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+clear
+pwd
+clear
+f
+ff
+clear
+pwd
+clear
+docker-start
+pwd
+clear
+cd test
+ls
+nvim 
+sudo docker-compose up -d
+sudo lazydocker
+clear
+pwd
+cd test
+sudo lazydocker
+sudo docker run --name postgres postgres
+nvim
+sudo docker run --name postgres -e POSTGRES_PASSWORD=123456 -p 5432:5432 -d postgres<\n>
+sudo lazydocker
+sudo docker run --name postgres -e POSTGRES_PASSWORD=123456 -p 5432:5432 -d postgres<\n>
+sudo lazydocker
+sudo lazydocker
+cd ~/.config/nushell
+nvim 
+nvim
+clear
+sudo lazydocker
+psqldocker
+sudo lazydocker
+serman
+pwd
+clear
+docker-stop
+serman
+config nu
+docker-status
+docker-start
+docker-stop
+serman
+clear
+pwd
+clear
+pwd
+clear
+sudo lazydocker
+docker-status
+pwd
+cd prm392
+mkdir be2
+ls
+cd be2
+nest new FMA_BE2
+cd FMA_BE2
+ls
+cd fma_be2
+ls
+npm install @nestjs/typeorm typeorm pg
+npm i --save @nestjs/config<\n>
+npm start
+nvim
+nvim .env
+nvim
+nvim .en
+nvim .env
+pwd
+clear
+cd Videos
+ls
+pdw
+clear
+nvim
+nvim .env
+npm start
+nest g res users
+mssql-start
+cd fma-api
+lazysql
+cd ~/bash-scripts
+ls
+nvim
+cd
+cd ~/sql-scripts
+npm install --save @nestjs/typeorm typeorm
+nest g res roles
+npm run start:dev
+npm start
+nvim .env
+npm start
+nvim .env
+npm start
+npm run start:deb
+nvim
+git branch -M main
+ls
+git remote add origin https://github.com/XhuyZ/Learn_NestJS.git
+git pull origin main
+nvim
+emulator -avd my_avd
+cd /opt/android-sdk/
+ls
+$env.ANDROID_SDK_ROOT
+ls ~/Android/Sdk
+cd ~/Android/Sdk
+ls
+cd system-images
+ls
+emulator -avd my_avd
+nvim
+sdkmanager "system-images;android-30;google_apis;x86"<\n>
+sdkmanager --list
+cd ..
+~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --list
+sdkmanager
+cd ~/.config/nushell
+nvim
+sudo pacman -S jdk8-openjdk<\n>
+sudo archlinux-java status
+sudo archlinux set java-8-openjdk
+sudo archlinux-set java-8-openjdk
+sudo archlinux-java set java-8-openjdk
+java --version
+sudo archlinux-java set java-8-openjdk
+java --version
+sdkmanager
+emulator -avd my_avd
+clear
+java --version
+yay -S jdk8
+pwd
+java --version
+pwd
+clear
+sdkmanager --update
+clear
+emulator -avd my_avd
+$env.JAVA_HOME
+emulator -avd my_avd
+$env.ANDROID_SDK_ROOT
+nvim
+clear
+pwd
+clear
+nvim env.nu
+emulator -avd my_avd
+$env.ANDROID_SDK_ROOT
+nvim
+clear
+$env.ANDROID_SDK_ROOT
+clear
+emulator -avd my_avd
+nvim
+sdkmanager --update
+clear
+cat ~/.android/avd/my_avd.ini<\n>
+nvim 
+avdmanager delete avd -n my_avd
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+sdkmanager --licenses
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+$env.ANDROID_SDK_ROOT
+nvim
+$env.ANDROID_SDK_ROOT
+clear
+emulator -avd my_avd
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+sdkmanager "emulator"
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+serman
+docker-stop
+sudo lazydocker
+serman
+clear
+pwd
+clear
+ff
+clear
+ls
+$env.ANDROID_SDK_ROOT
+emulator -avd my_avd
+java --version
+sudo archlinux-java status
+yay -Rns jdk8-openjdk
+yay -S jdk8
+cd
+git clone https://aur.archlinux.org/jdk8.git;cd jdk8;makepkg -si
+yay -S jdk8-temurin
+sudo archlinux-java status
+java --version
+sudo archlinux-java set java-8-temurin
+java --version
+java -version
+yay -Rns jdk8-temurin
+yay -S jdk8-temurin
+java -version
+pwd
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+sdkmanager --licenses
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+sudo sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+which java
+/usr/bin/java --version
+/usr/bin/java -version
+cd
+cd .config/nushell
+nvim
+clear
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+ls /usr/lib/jvm
+nvim
+clear
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+nvim
+clear
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+nvim
+n
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+sudo groupadd android-sdk
+sudo chown -R root:android-sdk /opt/android-sdk
+sudo chmod -R g+rw /opt/android-sdk -sudo find /opt/android-sdk -type d -exec chmod g+xs {} ;
+sudo chmod -R g+rw /opt/android-sdk -sudo find /opt/android-sdk -type d -exec chmod g+xs {}
+sudo usermod -aG android-sdk $USER
+sudo usermod -aG android-sdk $env.USER
+sudo systemctl start sssd
+sudo usermod -aG android-sdk $env.USER
+sdkmanager "platform-tools" "platforms;android-30" "system-images;android-30;google_apis;x86"
+avdmanager create avd -n my_avd -k "system-images;android-30;google_apis;x86" -d pixel
+clear
+pwd
+clear
+ff
+clear
+serman
+yay -S waydroid
+yay -S waydroid-image
+yay -S waydroid-image-gapps
+yay -Rns waydroid-image
+yay -S waydroid-image-gapps
+clear
+serman
+config nu
+clear
+waydroid-start
+waydroid-status
+serman
+waydroid session start
+waydroid init -s GAPPS<\n>
+sudo waydroid init -s GAPPS<\n>
+waydroid show-full-ui
+ip addr show
+serman
+waydroid-status
+waydroid show-full-ui
+clear
+waydroid show-full-ui
+yay -S binder-linux-dkms
+yay -S binder_linux_dkms
+yay -S binder_linux-dkms
+waydroid session start
+sudo modprobe binder_linux
+sudo modprobe binder-linux
+modprobe binder-linux devices=binder,hwbinder,vndbinder
+sudo modprobe binder_linux devices=binder,hwbinder,vndbinder<\n>
+sudo pacman -Syu linux-zen linux-zen-headers
+clear
+serman
+clear
+waydroid show-full-ui
+waydroid-stop
+clear
+pwd
+clear
+serman
+pwd
+clear
+pwd
+clear
+waydroid-disable
+serman
+clear
+ff
+owd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+cleawr
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+yay -Rns cursor-bin
+pwd
+clear
+ff
+clear
+pwd
+clear
+serman
+cd bash-scripts
+ls
+clear
+ff
+waydroid-status
+waydroid-start
+waydroid-status
+sudo waydroid shell
+adb root
+sudo waydroid shell
+waydroid show-full-ui
+yay -Syu
+xhuyz
+clea
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+waydroid-status
+cd AegisApp_FE
+ls
+git clone https://github.com/Aegis/AegisApp_FE.git
+git clone https://github.com/App-Aegis/AegisApp_FE.git
+cd AegisApp_FE
+serman
+clear
+pwd
+clea
+rpwd
+clear
+ls
+pwd
+clear
+ff
+clear
+serman
+waydroid-start
+pwd
+clear
+pwd
+clear
+cd prm392
+cd fe
+ls
+cd FMA_FE
+ls
+bash run.sh
+yay -S android-studio
+sdkmanager "build-tools;35.0.0"<\n>
+sudo sdkmanager "build-tools;35.0.0"<\n>
+sdkmanager "build-tools;35.0.0"<\n>
+pwd
+cd Android/Sdk
+ls
+cd ~/Android/Sdk
+ls
+cd build-tools
+ls
+waydroid show-full-ui
+waydroid-status
+waydroid show-full-ui
+waydroid-restart
+waydroid show-full-ui
+bash run.sh
+serman
+pwd
+clear
+exit
+serman
+exit
+serman
+cd fma-be2
+cd
+cd 
+ls
+cd prm392
+ls
+cd be2
+ls
+cd fma_be2
+ls
+lsd
+docker-start
+serman
+npm start
+nvim
+mysql-start
+mssql-start
+serman
+config nu
+cd .config/lazysql
+ls
+nvim config.toml
+lazysql
+nvim config.toml
+docker-start
+nvim config.toml
+lazysql
+nvim config.toml
+lazysql
+nvim config.toml
+cd
+cd dotfiles
+ls
+nvim
+nvim config nu
+config nu
+nvim
+pwd
+clear
+pwd
+ff
+sudo tlp start
+pwd
+clear
+ff
+clear
+pwd
+clear
+serman
+pwd
+clear
+ff
+pwd
+clear
+waydroid start
+waydroid-start
+pwd
+clear
+pwd
+clear
+pwd
+clear
+cd prm392
+ls
+pwd
+clear
+pwd
+clear
+ls
+cd fe
+ls
+cd ..
+ls
+cd be2
+ls
+cd ..
+clear
+gemini
+clear
+cd fe
+pwd
+ls
+cd FMA_FE
+cd fma-api
+ls
+waydroid show-full-ui
+waydroid-restart
+cd prm392/fe
+ls
+cd FMA_FE
+nvim
+bash run.sh
+pwd
+clear
+nvim
+gemini
+pwd
+clear
+nvim
+ls
+cd ..
+rm -rf FMA_FE
+ls
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+waydroid show-full-ui
+waydroid-restart
+pwd
+clear
+cd fma-api
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+cd prm392/fe
+ls
+nvim
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+cd FMA_FE
+nvim
+bash run.sh
+clear
+waydroid show-full-ui
+waydroid-restart;waydroid show-full-ui
+clear
+serman
+exit
+waydroid-status
+waydroid-start
+pwd
+cd prm392/fe
+cd FMA_FE
+clear
+waydroid-stop
+cd fma-api
+serman
+clear
+pwd
+f
+ff
+clear
+xhuyz
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+waydroid-start
+cd prm392/fe/FMA_FE
+nvim
+cd
+cd AndroidStudioProjects
+clear
+pwd
+ls
+ff
+clear
+pwd
+waydroid-stop
+serman
+cd bash-scripts
+ls
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pw
+pwd
+clear
+ff
+clear
+pwd
+clae
+clear
+waydroid-start
+cd fma-api
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+pwd
+clewar
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+cd prm392/fe/FMA_FE
+ls
+waydroid-start
+waydroid show-full-ui
+cd
+cd fma-api
+pwd
+serman
+clear
+cd bash-scripts
+ls
+gemini
+clear
+cd 
+mkdir lazysys
+cd lazysys
+ls
+cd lazysys-tui
+cargo run
+serman
+mssql-start
+cargo run
+serman
+cargo run
+clear
+cargo run
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+cd
+clear
+ff
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+cd lazysy
+ls
+fzf
+cd lazysys
+ls
+cd lazysys-tui
+cargo run
+cd
+cd Downloads
+cd 
+cd Videos
+cd lazysys/lazysys-tui
+ls
+cargo run
+mssql-start
+mssql-status
+serman
+clear
+cargo run
+clear
+cargo run
+cd lazysys/lazysys-tui;cargo run
+cargo run
+systemctl list-unit-files | grep enabled
+cd lazysys/lazysys-tui;cargo run
+serman
+mssql-status
+serman
+sudo tlp-stat
+cargo run
+clear
+ls
+pwd
+$env.GEMINI_API_KEY
+clear
+pwd
+clear
+gemini
+clear
+pwd
+clear
+cd
+clear
+clear
+ff
+clear
+yay -S cursor-bin
+clear
+pwd
+cd
+rm -rf lazysys
+mkdir lazysys
+cd lazysys
+cd ~/bash-scripts
+cp -r service-manager.sh ~/lazysys/
+cp -r services-manager.sh ~/lazysys/
+ls
+cd lazysys
+clear
+pwd
+go --version
+clear
+ls
+lazysys
+sudo lazysys
+nvim Makefile
+release
+make release
+ls
+make test
+make lazysys
+nvim Makefile
+make run
+serman
+mysql-start;docker-start
+make run
+make lazysys
+make run
+ls
+mkdir ~/lazysysv2;cp /* ~/lazysysv2/
+serman
+cd lazysys
+ls
+git init 
+git config --gloabl init.defaultBranch main
+git branch -M main
+ls
+git remote add origin https://github.com/XhuyZ/lazysys.git
+git add .
+git commit -m "vibe coder init"
+git push origin main
+make run
+clear
+serman
+mssql-start
+docker-start
+docker-status
+serman
+clear
+mysql-start
+mysql-status
+make run
+nvim
+make run
+nvim
+git add .
+nvim
+make run
+nvim
+cd test
+ls
+cd
+mkdir test2;cd test2;git clone https://github.com/XhuyZ/lazysys.git
+make build;make run
+make build
+make run
+ls
+cd lazysys
+make run
+nvim
+git status
+make run
+fcitx5
+cd lazysys;
+la
+ls
+make run
+sudo systemctl status ldconfig.service
+fcitx5
+systemctl list-units --type=service --state=running<\n>
+sudo systemctl status ldconfig.service
+docker-start;docker-status
+fcitx5
+make run
+sudo systemctl status firewalld.service
+make run
+systemctl list-units --type=service --state=inactive<\n>
+systemctl list-unit-files --type=service | grep enabled<\n>
+systemctl list-unit-files --type=service<\n>
+sudo systemctl list-units --type=service --all
+sudo systemctl list-unit-files --type=service --state=disabled
+sudo systemctl list-units --type=service --state=active
+sudo systemctl list-unit-files --type=service --state=inactive
+sudo systemctl list-units --type=service --state=exited
+sudo systemctl list-units --type=service --state=failed
+sudo systemctl list-unit-files --type=service --state=inactive
+sudo systemctl list-unit-files --type=service --state=disabled
+ls
+make build
+make run
+make build
+make run
+cd
+rm -rf lazysys
+ls
+git clone https://github.com/XhuyZ/lazysys.git
+cd lazysys
+ls
+make build
+serman
+make run
+nvim 
+pwd
+go --version
+go version
+clear
+pwd
+ff
+clear
+pwd
+clear
+serman
+cd lazysys
+make run
+serman
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+make run
+cd bash-scripts
+systemctl list-units --type=service --state=running | awk 'NR>1 && NF {print $1}' | sort
+nvim
+make run
+nvim
+serman
+docker-start
+mssql-start;mysql-start
+clear
+make run
+cd test2
+ls
+cd lazysy
+cd lazysys;git pull origin main
+make run
+git pull origin main
+nvim
+make run
+git pull origin main
+git status
+cd test2;rm -rf lazysys
+git clone https://github.com/XhuyZ/lazysys.git
+cd lazysys;make run
+make run
+make build;make run
+nvim
+make build;make run
+make run
+make run
+ls
+nvim
+make run
+git pull origin main
+make build;make run
+cd ..
+rm -rf lazysys
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;makebuild;make run
+nvim
+sudo systemctl list-unit-files --type=service --state=disabled
+make run
+nvim
+make run
+nvim
+make run
+nvim
+make build;make run
+nvim
+ls
+pwd
+make run
+nvim
+ls
+make run
+nvim
+make build;make run
+make run
+make build;make run
+cd
+rm -rf lazysys
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;make build;make run
+fcitx5
+nvim
+ls
+cd cmd
+ls
+cd lazysys
+nvim main.go
+cd ..
+nvim
+ls
+cd scripts/
+ls
+chmod +x install.sh
+bash install.sh
+sudo bash install.sh
+cd ..
+make build
+make run
+nvim
+go mod init github.com/XhuyZ/lazysys
+make run
+module lazysys
+nvim go.mod
+ls
+pwd
+ff
+cd ..
+rm -rf lazysys
+ls
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;make build;make run
+cd lazysys
+nvim
+rm -rf cmd/
+ls
+nvim
+cd cmd
+ls
+cd lazysys
+ls
+rm -rf lazysys
+ls
+make run
+cd ..
+make run
+nvim
+make run
+nvim
+serman
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+f
+clear
+pwd
+ff
+clear
+serman
+cd lazysys;make run
+ls
+mv main.go model.go services.go view.go ~/lazysys/src/
+ls
+cd src
+ls
+nvim
+make build
+make run
+nvim
+make build
+make run
+ls
+nvim
+make build
+make run
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clea
+rpwd
+pwd
+clear
+ff
+clear
+pwd
+clear
+nvim
+make release
+ls
+make release
+nvim
+make build
+make run
+make release
+nvim
+make build
+ls
+ls -l build/
+ls
+nvim
+make build
+make run
+make release
+ls
+nvim
+rm -rf build
+ls
+make build
+ls
+make release
+ls
+cd build
+ls
+nvim
+make run
+cd ..
+make run
+nvim
+pwd
+clear
+nvim
+ls
+rm -rf build
+ls
+rm -rf lazysys
+ls
+make build;make run 
+ls
+cd build
+ls
+cd ..
+make run
+ls
+rm -rf build
+make run
+nvim
+ls
+rm -rf build
+ls
+make build;make run 
+ls
+rm -rf build
+cd
+cd test2;rm -rf lazysys
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;make build;make run
+make run
+ls
+cd ..
+cd
+cd test2;rm -rf lazysys
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;make build;make run
+cd 
+cd test2;rm -rf lazysys
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;make run
+ls
+mkdir scripts/
+ls
+nvim
+mkdir scripts/
+mv services-manager.sh ~/lazysys/scripts/
+ls
+cd scripts/
+ls
+rm -rf build
+nvim 
+nvim
+cd ..
+make run
+go build -o /build/lazysys
+nvim
+make run
+cd test2;rm -rf lazysys
+ls
+rm -rf build
+ls
+make build;make run
+git clone https://github.com/XhuyZ/lazysys.git;cd lazysys;
+nvim
+mkdir assets/
+ls
+clear
+LC_ALL=C pacman -V|sed -r 's#[0-9]+#dac#g'|md5sum|cut -c1-6 
+ls
+mkdir aur-lazysys-git
+cd aur-lazysys-git
+git init
+git branch -M main
+git remote add origin https://github.com/XhuyZ/aur-lazysys-git.git
+ls
+nvim PKGBUILD
+makepkg --printsrcinfo > .SRCINFO<\n>
+makepkg -si
+nvim PKGBUILD
+makepkg -si
+lazysys
+sudo lazysys
+ls
+nvim PKGBUILD
+rm -rf lazysys-git/ src/ pkg/<\n>
+ls
+nvim
+makepkg -si
+sudo lazysys
+ls
+nvim
+makepkg -si
+nvim
+ls
+clear
+makepkg -si
+ls
+pwd
+nvim
+rm -rf pkg/
+ls
+sudo rm -rf pkg/
+ls
+makepkg -si
+sudo lazysys
+ls
+rm -rf lazysys-git/ src/ pkg/<\n>
+nvim
+ls
+git add .
+git push origin main
+git remote add origin https://github.com/XhuyZ/aur-lazysys-git.git
+git add .
+git commit -m "PKGBUILD init"
+git push origin main
+ls
+makepkg --printsrcinfo > .SRCINFO<\n>
+ls
+ls -l
+nvim
+ls
+pwd
+clear
+nvim
+makepkg --printsrcinfo > .SRCINFO<\n>
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+ls
+ssh-keygen -f ~/.ssh/aur
+pwd
+clear
+ls
+makepkg --printsrcinfo > .SRCINFO<\n>
+clear
+pwd
+clear
+pwd
+clear
+ssh-keygen -t ed25519 -C "huylovengoc35@gmail.com"<\n>
+ssh-keygen -f ~/.ssh/aur<\n>
+cat ~/.ssh/aur.pub<\n>
+cd aur-lazysys-git
+git remote add aur ssh://aur@aur.archlinux.org/lazysys-git.git<\n>
+makepkg --printsrcinfo > .SRCINFO<\n>
+git add PKGBUILD .SRCINFO
+ls
+git add .
+git commit -m "initial release of lazysys"
+ls
+git log
+git init
+git remote add aur ssh://aur@aur.archlinux.org/lazysys-git.git<\n>
+cd test2;rm -rf lazysys
+git clone ssh://aur@aur.archlinux.org/lazysys-git.git
+ls
+git add .
+git commit -m "initial release of lazysys"
+git pull origin main
+git pull
+git add .
+ls
+nvim
+ls
+makepkg --printsrcinfo > .SRCINFO<\n>
+git status
+nvim
+git log
+yay -S lazysys-git
+yay -S less
+git branch
+git branch -M main master
+git branch -m main master<\n>
+git branch
+nvim
+git push -u origin master<\n>
+git branch
+git log
+yay -S lazysys-git
+ls
+git log
+pwd
+clear
+makepkg --printsrcinfo > .SRCINFO<\n>
+git add .
+git commit -m "initial release of lazysys"
+git push
+git remote add origin ssh://aur@aur.archlinux.org/lazysys-git.git<\n>
+xhuyz
+yay -Syu
+yay -S lazysys-git
+clear
+ls
+mkdir ~/aur-lazysys-git-local;cd ~/aur-lazysys-git-local;
+ls
+git -c init.defaultBranch=master init
+git remote add origin ssh://aur@aur.archlinux.org/lazysys-git.git<\n>
+cp -r ~/aur-lazysys-git/PKGBUILD ~/aur-lazysys-git-local/
+ls
+makepkg --printsrcinfo > .SRCINFO<\n>
+git add PKGBUILD .SRCINFO
+makepkg --printsrcinfo > .SRCINFO<\n>
+ls -la 
+ls -la | grep SRCINFO<\n>
+makepkg --printsrcinfo > .SRCINFO<\n>
+ls -la | grep SRCINFO<\n>
+ls | grep PKGBUILD<\n>
+makepkg --printsrcinfo<\n>
+ls
+ls -l
+bash makepkg --printsrcinfo > .SRCINFO<\n>
+ls
+ls -l
+nanmakepkg --printsrcinfo > .SRCINFO<\n>
+makepkg --printsrcinfo > .SRCINFO<\n>
+nvim .SCRINFO
+ls
+ls -l
+nvim .SCRINFO
+ls -la | grep SRCINFO<\n>
+nano .SRCINFO
+sudo nvim .SCRINFO
+git add PKGBUILD .SRCINFO
+git push
+git push --set-upstream origin master
+git remote set-url origin ssh://aur@aur.archlinux.org/lazysys-git.git<\n>
+ssh -T aur@aur.archlinux.org<\n>
+nvim ~/.ssh/config
+git push --set-upstream origin master
+ssh-add ~/.ssh/id_ed25519<\n>
+ssh-keygen -f ~/.ssh/aur
+ssh-add ~/.ssh/aur<\n>
+nvim ~/.ssh/aur.pub<\n>
+nvim ~/.ssh/config<\n>
+git push --set-upstream origin master
+pacman -Q lazysys
+pacman -Q lazysys-git
+nvim
+cd aur-lazysys-git-local
+git log
+clear
+yay -S lazysys-git
+sudo lazysys
+ls
+rm -rf aur-lazysys-git
+cd aur-lazysys-git-local
+clear
+pwd
+clear
+ff
+clear
+ls
+clear
+pwd
+clear
+pwd
+clear
+cd
+clear
+pwd
+clea
+rclear
+clear
+ls
+clear
+pwd
+clear
+sudo lazysys
+docker-status
+docker-start
+pwd
+clear
+docker-status
+docker-restart
+mssql-start
+clear
+mssql-stop
+clear
+sudo lazysys
+myslq-stop
+mysql-stop
+serman
+clear
+sudo lazysys
+clear
+mssql-stop
+mysql-stop
+clear
+sudo lazysys
+pkill kdenlive
+cd lazysys
+cd lazysys
+ls
+pkill kdenlive
+sudo lazysys
+cd lazysys
+ls
+nvim README.md
+ls
+nvim
+sudo lazysys
+ls
+nvim
+make run
+rm -rf build
+make run
+make build;make run
+nvim
+lazysys
+sudo lazysys
+nvim
+yay -Rns lazysys-git
+yay -S lazysys-git
+sudo lazysys
+clear
+yay -S systemctl-tui
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+serman
+sudo lazysys
+clear
+waydroid-status
+clear
+pwd
+clear
+cd fma-api
+cd AndroidStudioProjects
+ls
+cd Demoapi
+nvim
+clear
+cd
+clear
+ipconfig
+ip a
+ifconfig
+ip a
+pwd
+clear
+ff
+clear
+lazysys
+sudo lazysys
+cd prm392/fe/
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+waydroid-start;waydroid show-full-ui
+ls
+cd FMA_FE
+nvim
+pwd
+clear
+ff
+clear
+pwd
+hyprctl monitors all
+cd .config
+ls
+cd hypr
+ls
+hyprctl monitors all
+cd .config/hypr
+nvim monitors.conf
+ls
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+cd fma-api
+ls
+pwd
+clear
+pwd
+fcitx5
+pwd
+cd prm392/fe/
+ls
+cd FMA_FE
+cd prm392/fe/
+cd FMA_FE
+nvim
+ls
+pwd
+git add .
+git commit -m "init main screen"
+git push 
+sudo tlp-stat
+sudo lazysys
+serman
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+cd AegisApp_FE
+ls
+pwd
+npm start
+ls
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+cd
+cd fma-api
+ls
+npms start
+waydroid-start;waydroid show-full-ui
+cd prm392/fe/
+cd FMA_FE
+ls
+git add .
+cd prm392/fe/FMA_FE
+git pull
+ls
+cd prm392/fe/FMA_FE
+ls
+cd gradle
+nvim
+ls
+cd .idea
+ls
+cd ..
+cd .idea
+ls
+rm -rf gradle.xml workspace.xml
+ls
+waydroid-start;waydroid show-full-ui
+cd prm392/fe/FMA_FE
+cd gradle
+nvim
+waydroid-restart;waydroid show-full-ui
+yay -Rns android-studio
+cd .cache/yay
+ls
+rm -rf android-studio
+ls
+yay -S android-studio
+clear
+gping google.com facebook.com
+yay -S gping
+clear
+cd ..
+ls
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+cd FMA_FE
+nvim
+cd gradle
+ls
+nvim
+cd ..
+nvim
+waydroid-start;waydroid show-full-ui
+pkill android-studio
+sudo lazysys
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+xhuyz
+clear
+xhuyz
+clear
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+xhuyz
+clear
+pwd
+clear
+cd nixvim
+ls
+nix flake update
+sudo nix flake --update
+nix --help
+nix flake update
+sudo nix flake --update
+nix develop
+sudo nix develop
+nvim
+sudo nvim
+git add .
+sudo git add .
+nix develop
+sudo nix develop
+sudo git add .
+sudo git commit -m "update flake input"
+git config --global user.email "huylovengoc35@gmail.com"
+git config --global user.name "xhuyz"
+gh auth login
+git add .
+git log
+git add .
+git commit -m "update flake input and rebuild"
+git push 
+gh auth login
+clear
+pwd
+yay -S gh-cli
+yay -S gh
+la
+pwd
+yay -S github-cli
+clear
+pwd
+ff
+pwd
+clear
+ff
+clear
+pwd
+sudo tlp-stat
+pwd
+clear
+ff
+sudo tlp-start
+sudo tlp start
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clea
+ff
+clear
+pwd
+clear
+cd
+clwaer
+ls
+clear
+pwd
+clear
+cd lazysys
+clear
+pwd
+ff
+clear
+cd
+clear
+pwd
+ff
+clear
+pwd
+clear
+docker-start
+yay -S docker
+clear
+pwd
+docker-restart
+journalctl -xeu docker.service
+sudo lazysys
+docker info
+yay -S gping
+gping google.com facebook.com
+clear
+pwd
+ff
+clear
+pwd
+clear
+yay -S docker-git
+clear
+sudo docker ps
+docker-start
+sudo docker-restart
+docker-restart
+docker-stop
+docker-start
+systemctl status docker.service<\n>
+journalctl -xeu docker.service<\n>
+sudo journalctl -u docker.service --no-pager --since "10 minutes ago"<\n>
+sudo nvim /etc/docker/daemon.json<\n>
+cd /etc/docker
+ls
+cd /etc
+ls
+cd docker
+clear
+pwd
+clear
+cd
+sudo systemctl daemon-reexec
+docker-restart
+docker-enable
+docker-start
+docker-restart
+docker-stop
+serman
+pwd
+sudo archlinux-java status
+sudo archlinux-java set java-24-openjdk
+java --verison
+java --version
+pwd
+clear
+ff
+sudo lazydocker
+sudo lazysys
+clear
+pwd
+clear
+pwd
+clear
+cd prm392/fe/
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+cd FMA_FE
+git log
+pwd
+clear
+cd
+cd fma-api
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+cd prm392/fe/FMA_FE
+ls
+nvim
+cd 
+pwd
+cd lazysys
+ls
+cd lazysys
+make build;make run
+make run
+clear
+make run
+make build;make run
+make run
+make build
+make run
+nvim
+make build
+make run
+nvim
+gemini
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+cd prm392
+clear
+pwd
+ls
+cd be
+ls
+rm -rf FMA_BE
+git clone https://github.com/FootballMatchApp/FMA_BE.git
+ls
+cd FMA_FE
+cd FMA_BE
+ls
+pwd
+ls
+cd FMA.DAL
+ls
+cd ..
+dotnet restore
+ls
+cd FMA.DAL
+ls
+dotnet list package
+lazysql
+mssql-=start
+mssql-start
+mssql-status
+pwd
+ff
+clear
+bahs migration.sh
+bash migration.sh
+cd prm392/fe/FMA_FE
+nvim
+waydroid-start;waydroid show-full-ui
+pwd
+clear
+waydroid show-full-ui
+pacman -Q waydroid-image
+yay -S waydroid-image-gapps
+waydroid prop set persist.waydroid.multi_windows true
+waydroid-stop
+waydroid-start
+waydroid session stop
+sudo waydroid container stop
+waydroid-start;waydroid show-full-ui
+sudo waydroid shell wm set-fix-to-user-rotation enabled
+sudo waydroid container start
+sudo waydroid shell wm set-fix-to-user-rotation enabled
+waydroid prop set persist.waydroid.width 720;waydroid prop set persist.waydroid.height 1280
+waydroid-start;waydroid show-full-ui
+waydroid-restart;waydroid show-full-ui
+waydroid prop set persist.waydroid.width 600;waydroid prop set persist.waydroid.height 1024
+waydroid prop set persist.waydroid.width 480;waydroid prop set persist.waydroid.height 800<\n>
+waydroid-restart;waydroid show-full-ui
+waydroid-restart;waydroid show-full-ui
+waydroid prop set persist.waydroid.width 600;waydroid prop set persist.waydroid.height 1024
+waydroid-restart;waydroid show-full-ui
+sudo waydroid container start
+pwd
+clear
+waydroid-restart
+waydroid prop set persist.waydroid.width 600;waydroid prop set persist.waydroid.height 1024
+waydroid show-full-ui
+waydroid prop set persist.waydroid.width 600;waydroid prop set persist.waydroid.height 1024;waydroid prop set persist.waydroid.dpi 200<\n>
+waydroid-restart;waydroid show-full-ui
+pwd
+nvim
+pwd
+clear
+exit
+gping google.com facebook.com
+clear
+cd Pictures
+exit
+gping google.com facebook.com
+exit
+waydroid-stop
+sudo lazysys
+docker-disable
+clear
+pwd
+docker-status
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+ff
+clear
+pwd
+ff
+pwd
+ff
+clear
+pwd
+ff
+clear
+exit
+pwd
+ff
+clear
+gping google.com facebook.com
+pwd
+f
+ff
+clear
+pwd
+ff
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+ff
+sudo lazysys
+pwd
+f
+clear
+pwd
+ff
+cd prm392/fe/
+rm -rf FMA_FE
+ls
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+pwd
+waydroid-start;waydroid show-full-ui
+sudo lazysys
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+waydroid-start;waydroid show-full-ui
+waydroid-stop
+pwd
+serman
+pwd
+ff
+clear
+pwd
+cd bash-scripts
+ls
+nvim package.sh
+pwd
+ff
+clear
+pwd
+ff
+clear
+ff
+cd
+cd prn231
+ls
+cd pe
+ls
+dotnet new sln -n Application
+mssql-status
+mssql-start
+mssql-status
+pwd
+clear
+lazysql
+cp -r ~/bash-scripts/package.sh ~/prn231/pe/Application.DAL/
+ls
+cd Application.DAL
+bash package.sh
+dotnet list package
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+cd .config
+ls
+cd lazysql
+ls
+dotnet new tool-manifest;
+dotnet tool install --local dotnet-ef
+dotnet tool list
+nvim config.toml
+ls
+pwd
+ls
+cd Application.DAL
+config nu
+scaffold
+ls
+xhuyz
+pwd
+clear
+ff
+clear
+xhuyz
+ff
+yay -Syu
+pwd
+ff
+clear
+pwd
+ff
+clear
+cd prm392/fe/FMA_FE
+ls
+cd gradle
+ls
+nvim
+pwd
+ls
+cd ..
+nvim
+ls
+cd prn231
+mkdir lab
+cd lab
+ls
+dotnet new sln -n Application
+ls
+cd Application.DAL
+ls
+rm -rf Class1.cs
+ls
+cp -r ~/bash-scripts/package.sh ~/prn231/lab/Application.DAL/
+ls
+cp -r ~/migration.sh/package.sh ~/prn231/lab/Application.DAL/
+cd bash-scripts
+ls
+cp -r ~/migration.sh ~/prn231/lab/Application.DAL/
+cp -r ~/bash-scripts/migration.sh ~/prn231/lab/Application.DAL/
+ls
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+pwd
+ff
+clear
+cd
+cd setup-aspnet-3layer
+ls
+cp -r script.sh db.sh ~/prn231/lab/
+ls
+cd ~/prn231/lab
+ls
+rm -rf Application.sln Application.API Application.BLL Application.Common Application.DAL
+ls
+mysql-start
+clear
+mysql-status
+clear
+ff
+clear
+nvim script.sh
+ls
+bash script.sh
+ls
+cd Application
+ls
+dotnet restore
+cd DAL;dotnet list package
+cd ..
+ls
+cd ..
+ls
+nvim script.sh
+rm -rf Application
+ls
+bash script.sh
+cd Application
+dotnet restore
+ls
+cd DAL
+ls
+cd Entities
+ls
+nvim
+cd .
+cd ..
+ls
+nvinm
+nvim
+dotnet build
+ls
+cd ..
+ls
+bash db.sh
+nvim
+cp -r ~/bash-scripts/migration.sh ~/prn231/lab/DAL/
+cp -r ~/bash-scripts/migration.sh ~/prn231/lab/DAL
+ls
+rm -rf DAL
+cp -r ~/bash-scripts/migration.sh ~/prn231/lab/Application/DAK
+cp -r ~/bash-scripts/migration.sh ~/prn231/lab/Application/DAL
+nvim
+cd Application
+cd DAL;
+bash migration.sh
+dotnet build
+cd ..
+cd BLL
+dotnet list package
+dotnet build
+cd ..
+cd API
+dotnet list package
+dotnet build
+dotnet run
+cd ..
+cd DAL
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+dotnet build
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore -v 8.0.11
+dotnet list package
+dotnet build
+cd .
+cd ..
+cd BLL
+dotnet build
+cd ..
+cd API
+dotnet build
+dotnet run
+cd ..
+cd DAL
+bash migration.sh
+cd ..
+cd API
+dotnet run
+cd ..
+cd DAL
+dotnet build
+bash migration.sh
+cd ..
+cd API
+dotnet run
+dotnet build
+dotnet run
+donet build;dr
+dotnet build
+dotnet run
+cd ..
+cd DAL
+bash migraiton.sh
+bash migration.sh
+cd ..
+cd API
+dotnet build;dotnet run
+dotnet build 
+dotnet run
+dotnet build 
+dotnet run
+dotnet build;dotnet run
+cd ..
+cd DAL
+bash migration.sh
+dotnet build;dotnet run
+cd ..
+cd API
+dotnet build;dotnet run
+dotnet run
+nvim
+pwd
+clear
+pwd
+cd API
+dotnet run
+nvim
+ls
+pwd
+ls
+git init
+git branch -M main
+cd prn231/lab
+ls
+cd Application
+cd Videos
+git remote add origin https://github.com/XhuyZ/Lab03_PRN231.git
+git pull
+git add .
+git commit -m "init lab03_PRN231"
+git push origin main
+git branch -M main
+git pull
+git pull origin main
+git log
+git push --set-upstream origin main
+git pull origin main --rebase<\n>
+git push --set-upstream origin main
+ls
+mkdir assets/
+cd prn231/lab
+cd Application
+cd API;dotnet run
+dotnet run
+cd
+cd prn231
+nvim lab3.txt
+dolphin .
+git clone https://github.com/XhuyZ/pe-scripts
+cd pe-scripts
+ls
+pwd
+ff
+clear
+ls
+nvim
+bash step1.sh
+bash step2.sh
+mssql-start
+lazysql
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+nvim
+bash step7.sh
+nvim
+ls
+rm -rf HuyManagement
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+bash step6.sh
+nvim
+ls
+rm -rf TPManagement
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+nvim
+cd pe-scripts
+bash step6.sh
+bash step7.sh
+ls
+cd Productmanagement;dotnet build
+ls
+cd ProductManagement;dotnet build
+nvim
+bash step7.sh
+cd ..
+bash step7.sh
+nvim
+cd ProductManagement;dotnet build
+nvim
+cd .
+cd ..
+nvim
+rm -rf ProductManagement
+ls
+nvim
+ls
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+nvim
+rm -rf ProductManagement
+ls
+cd pe-scripts
+ls
+nvim
+bash step1.sh
+bash step2.sh
+mssql-status
+mssql-start
+mssql-status
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+ls
+cd ProductManagement;dotnet build
+ls
+cd PM.BLL
+dotnet list package
+nvim
+cd ..
+ls
+nvim Program.cs.txt
+ls
+nvim
+nvim ISystemAccountService.cs.txt
+ls
+nvim
+nvim SystemAccountService.cs.txt
+ls
+rm -rf ProductManagement
+ls
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+nvim
+clear
+pwd
+ff
+clear
+cd Downloads
+ls
+unzip PE_PRN231_SP25_000259_BE-20250718T035842Z-1-001.zip
+ls
+cd PE_PRN231_SP25_00259_BE
+cd PE_PRN231_SP25_000259_BE
+ls
+dotnet restore
+ls
+nvim
+cd ..
+ls
+cp -r PE_PRN231_SP25_000259_BE ~?
+cp -r PE_PRN231_SP25_000259_BE ~/
+ls
+cd
+cd PE_PRN231_SP25_000259_BE
+ls
+pwd
+clear
+pwd
+ff
+clear
+ff
+clear
+pwd
+ff
+clear
+exit
+gping google.com facebook.com
+clear
+ff
+clear
+pwd
+ff
+clear
+cd PE_PRN231_SP25_000259_BE
+ls
+cd pe-scripts
+ls
+nvim appsettings.json.txt
+ls
+mssql-status
+mssql-start
+mssql-status
+lazysql
+pwd
+clear
+ls
+cd APIServices
+lazysql
+pwd
+ff
+clear
+pwd
+ff
+clear
+cd pe-scripts
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+ls
+cd ProductManagement
+ls
+dotnet build
+ls
+pwd
+ls
+cd pe-scripts
+nvim AutoMapperProfile.cs.txt
+ls
+nvim MainService.cs.txt
+ls
+cd pe-scripts
+ls
+rm -rf ProductManagement
+bash step1.sh
+nvim
+bash step2.sh
+bash step3.sh
+mssql-status
+mssql-start
+mssql-status
+bash step4.sh
+nvim
+bash step5.sh
+ls
+pwd
+clear
+pwd
+clear
+f
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+ff
+clear
+ff
+clear
+ls
+rm -rf ProductManagement
+ls
+pwd
+clear
+pwd
+ff
+clear
+ff
+clear
+ls
+pwd
+ff
+clear
+pwd
+ff
+clear
+cd pe-scripts
+ls
+pwd
+cd
+cd PE_PRN231_SP25_000259_BE
+ls
+dotnet build
+mssql-start
+mssql-status
+clear
+ls
+pwd
+cd APIServices
+dotnet run
+nvim
+dotnet run
+cd pe-scripts
+ls
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step3.sh
+rm -rf Spring2025Handbag
+ls
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+ls
+cd ProductManagement
+ls
+cd PM.BLL
+dotnet build
+nvim
+cd ..
+nvim
+ls
+rm -rf ProductManagement
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh 
+bash step8.sh
+nvim step1.sh
+nvim note.txt 
+rm -rf ProductManagement
+cd pe-scripts
+bash step1.sh
+bash step2.sh
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+nvim
+bash step8.sh
+cd ProductManagement
+cd PM.API
+dotnet build
+dotnet run
+cd ..
+bash step8.sh
+nvim
+ls
+rm -rf ProductManagement
+ls
+rm -rf Program.cs.txt
+ls
+rm -rf appsettings.json.txt
+ls
+bash step1.sh
+bash step2.sh
+bash step3.s
+bash step3.sh
+bash step4.sh
+bash step5.sh
+bash step6.sh
+bash step7.sh
+bash step8.sh
+cd ProductManagement
+dotnetbuild
+dotnet build
+nvim
+ls
+rm -rf ProductManagement
+cd .config/nvim
+ls
+nvim
+ls
+bash step1.sh
+bash step2.sh
+bash step3.sh
+nvim
+ls
+pwd
+rm -rf ProductManagement
+ls
+clear
+pwd
+ff
+nvim
+nvim
+sudo tlp-stat
+sudo lazysys
+clear
+pwd
+ff
+clear
+xhuyz
+yay -Syu
+ls
+pwd
+clear
+ff
+clear
+waydroid-start;waydroid show-full-ui
+waydroid-restart;waydroid show-full-ui
+exit
+sudo lazysys
+ls
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clea
+rpwd
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+ff
+clear
+ff
+clear
+exit
+pwd
+ff
+clear
+cd HyDE
+git pull
+cd Scripts
+ls
+./install.sh
+clear
+sudo lazysys
+pwd
+ff
+clear
+pwd
+clear
+gping google.com facebook.com
+clwafdsa
+dsa
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+cd 
+cd fma-api
+nvim
+gemini-cli
+gemini
+npm start
+ls
+cd src
+ls
+nvim
+gemini
+npm start
+nest start
+npm start
+curl http://localhost:3000/profile
+nvim
+curl http://localhost:3000/profile | jq<\n>
+pwd
+clear
+ssh 192.168.1.255
+ssh@192.168.1.255
+ssh xhuyz@192.168.1.255
+gping google.com facebook.com
+clear
+git clone https://github.com/XhuyZ/SP25_SWP391_HarmonyHub_FE.git
+cd SP25_SWP391_HarmonyHub_FE
+ls
+pwd
+clear
+ff
+clear
+ls
+nvim
+pwd
+ff
+clear
+npm i
+cd SP25_SWP391_HarmonyHub_FE
+nvim
+clear
+ff
+clear
+pfetch
+clear
+pw
+pwd
+clewar
+clear
+pwd
+ff
+clear
+pwd
+clewar
+pwd
+clear
+pwd
+clear
+pwd
+cleawr
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+ff
+pfetch
+clear
+pwd
+cleaer
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pdw
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+mssql-status
+sudo lazysys
+cd 
+ls
+clear
+pwd
+ff
+clear
+pwd
+cler
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+ff
+clear
+fff
+ff
+pwd
+clear
+cd
+cd .tmuxp
+ls
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+nvim 
+basico
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+git clone https://github.com/reflection-paradise/retake-prn-FE.git
+cd retake-prn-FE
+ls
+pwd
+npm i
+pwd
+ff
+clear
+npm run dev
+nvim
+cd SP25_SWP391_HarmonyHub_FE
+nvim
+cd
+rm -rf retake-prn-FE
+npm create vite@latest 
+cd retake-prn-FE
+ls
+npm install
+ls
+npm run dev
+nvim
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+nvim
+cd ..
+rm -rf retake-prn-FE
+npm create vite@latest 
+cd Basico_FE
+npm insta
+npm i
+npm run dev
+nvim
+nvim
+git init
+git branch -M main
+ls
+pwd
+clear
+git remote add origin https://github.com/reflection-paradise/Basico_FE.git
+git pull
+git status
+git add .
+nvim
+npm install react-router-dom
+npm add tailwindcss @tailwindcss/vite
+npm run dev
+npm add -D @types/node
+npm dlx shadcn@latest init
+npx shadcn@latest init
+npm run dev
+npx shadcn@latest add button card
+npm run dev
+cd fma-api
+npm start
+npm start:dev
+npm run dev
+npx shadcn@latest add avatar
+npm run de
+npm run dev
+npx shadcn@latest add navigation-menu
+npm run dev
+npx shadcn@latest add sheet
+nvim
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+ff
+clear
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+ff
+f
+ff
+clear
+sudo lazysys
+clear
+ff
+clear
+pwd
+exit
+pwd
+ff
+clear
+pwd
+clear
+pwd
+f
+clear
+exit
+clear
+git clonehttps://github.com/whoisYoges/lwalpapers.git
+cd fma-api
+git clone https://github.com/whoisYoges/lwalpapers.git
+nvim
+clear
+pwd
+mssql-start
+lazysql
+nvim
+sudo lazysys
+clear
+ff
+cd AndroidStudioProjects
+ls
+cd
+cd prm392/fe/
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+ls
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+ls
+nvim
+waydroid-restart;waydroid show-full-ui
+clear
+waydroid-stop
+sudo lazysys
+clear
+ff
+clear
+xhuyz
+cler
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+pwd
+clear
+exit
+pwd
+ff
+clear
+ff
+clear
+gping google.com facebook.com
+clear
+waydroid-restart;waydroid show-full-ui
+waydroid-stop
+clear
+ff
+sudo lazysys
+clear
+exit
+clear
+gping google.com facebook.com
+clear
+ff
+clear
+ff
+clear
+pfetch
+waydroid-stop
+exit
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+ff
+cd prm392/fe/
+ls
+rm -rf FMA_FE
+git clone https://github.com/FootballMatchApp/FMA_FE.git
+ls
+cd FMA_FE
+ls
+git pull
+pwd
+ff
+clear
+cd prn231
+ls
+cd be
+ls
+git clone https://github.com/reflection-paradise/retake-prn.git
+cd retake-prn
+dotnet restore
+ls
+cd APIGateway
+ls
+cd ..
+nvim
+ls
+rm -rf *
+ls
+pwd
+git clone https://github.com/reflection-paradise/retake-prn.git -b trisy
+ls
+cd ..
+ls
+rm -rf retake-prn
+git clone https://github.com/reflection-paradise/retake-prn.git -b trisy
+cd retake-prn
+ls
+cd DocumentService
+ls
+cd DocumentService
+mssql-start
+nvim
+ls
+mssql-status
+lazysql
+cd .config/lazysql
+nvim config.toml
+pwd
+lazysql
+clear
+ff
+gping
+gping google.com facebook.com
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clea
+rpwd
+pwd
+clear
+pwd
+clear
+ff
+clear
+xhuyz
+pwd
+cd prn231
+cd fe
+ls
+xhuyz
+cd AndroidStudioProjects
+ls
+git clone https://github.com/ai-nghia/speaker_order.git
+waydroid-start;waydroid show-full-ui
+waydroid prop set persist.waydroid.width "";waydroid prop set persist.waydroid.height ""
+config nu
+waydroid-restart;waydroid show-full-ui
+sudo waydroid restart waydroid-container
+waydroid prop set persist.waydroid.width ""<\n>waydroid prop set persist.waydroid.height ""
+waydroid-restart;waydroid show-full-ui
+ls
+cd AndroidStudioProjects
+ls
+cd speaker_order
+ls
+nvim 
+cd 
+cd prm392/fe/
+ls
+cd FMA_FE
+ls
+cd AndroidStudioProjects/speaker_order
+ls
+pwd
+cd prn231
+cd fe
+ls
+git clone https://github.com/reflection-paradise/Basico_FE.git
+ls
+npm i
+cd Basico_FE
+ls
+npm i
+cd Basico_FE
+npm i
+npm run dev
+cd SP25_SWP391_HarmonyHub_FE
+ls
+cd .config/nvim
+ls
+yay -S prettier
+ip a
+curl ifconfig.me<\n>
+npm run dev
+npx shadcn@latest add accordion
+nvim
+pwd
+ff
+clear
+npm run dev
+pkill cursor
+nvim
+cd Basico_FE
+npm run dev
+npm run dev
+npm run debv
+npm run dev
+npm i
+waydroid-restart;waydroid show-full-ui
+clear
+exit
+npm run dev
+gemini
+npm run dev
+cd SP25_SWP391_HarmonyHub_FE
+npm run dev
+npm install -D @tailwindcss/postcss<\n>
+npm run dev
+npm runn dev
+npm run dev
+npx shadcn@latest add navigation-menu
+npx shadcn@latest add sheet
+npx shadcn@latest add button
+npm install lucide-react
+npm run dev
+npm install tailwindcss/animate
+npm install tailwindcss-animate
+npm run dev
+npm install tailwindcss postcss autoprefixer<\n>
+nvim
+gemini
+npm install tailwindcss @tailwindcss/vite
+npm install -D @types/node
+npx shadcn@latest init
+npm run dev
+npx shadcn@latest init
+npx shadcn@latest add button 
+npm run dev
+npx shadcn@latest add accordion
+npx shadcn@latest add navigation-menu
+npx shadcn@latest add sheet
+clear
+pwd
+clear
+pwd
+clear
+cd Basico_FE
+ls
+cd SP25_SWP391_HarmonyHub_FE
+cd test
+ls
+clear
+cd
+npm run dev
+npm i
+npm run dev
+npm install framer-motion
+yay -S webstorm
+pwd
+clear
+pwd
+clear
+npm run dev
+nvim
+ls
+npm i
+npm run dev
+clear
+pwd
+clear
+pwd
+clear
+pw
+pwd
+clear
+pwd
+ls
+nvim
+ls
+rm -rf *
+ls
+cp * ~/Basico_FE
+sudo cp -r * ~/Basico_FE
+npm i
+ls
+npm run dev
+nvim
+sudo chown -R xhuyz:xhuyz ~/Basico_FE<\n>
+rm -rf node_modules .vite .vite-temp package-lock.json
+npm i
+npm run dev
+nvim
+ls
+nvim
+clear
+pwd
+clear
+pwd
+git log
+rm -rf .git 
+git log
+git init
+git remote add origin https://github.com/reflection-paradise/Basico_FE.git
+git push --set-upstream origin main
+git remote -v
+git add .
+git commit -m "minor change"
+git branch -M main
+git add .
+git commit -m "minor change"
+git push --set-upstream origin main --force
+git status
+ls
+fastfetch
+btop
+clear
+pwd
+ff
+clear
+ls
+cd Basico_FE
+ls
+pwd
+clear
+ls
+cd test
+ls
+rm -rf docker-compose.yaml
+ls
+git clone https://github.com/reflection-paradise/retake-prn.git -b feats/package
+cd retake-prn
+ls
+docker-start
+docker-status
+clear
+ls
+cd Services.Packages
+ls
+cd Services.Packages.API
+ls
+sudo docker-compose up -d
+ls
+cd ..
+ls
+cd LawBasico.Services.PackagesUsers
+ls
+cd LawBasico.Services.PackageUsers
+ls
+sudo docker-compose up -d
+sudo lazydocker
+clear
+sudo docker ps
+ip a
+sudo docker ps
+clear
+docker-stop
+sudo lazysys
+clear
+ff
+clear
+ls
+nvim
+dolphin .
+npm run dev
+dolphin .
+cd test
+ls
+cd retake-prn
+ls
+cd Service.Packages
+ls
+cd Services.Packages
+ls
+cd LawBasico.Services.PackageUsers
+ls
+git pull
+sudo docker-compose up -d
+pkill google-chrome
+cd Basico_FE
+sudo docker-stop
+docker-stop
+clear
+pwd
+clear
+sudo lazysys
+clear
+nvim
+git status
+exit
+cd Basico_FE
+git branch
+git checkout -b trisy
+npm i
+npm run dev
+git log
+nvim
+git checkout -b feats/package
+git branch
+npm install
+cd prn231/be
+ls
+cd retake-prn
+ls
+git checkout -b feats/package
+ls
+git pull
+ls
+cd ..
+rm -rf retake-prn
+git clone https://github.com/reflection-paradise/retake-prn.git -b feats/package
+cd retake-prn
+ls
+cd Services.Packages
+ls
+cd LawBasico.Services.PackageUsers
+ls
+sudo docker-compose up -d
+docker-start
+sudo docker-compose up -d
+npm run dev
+nvim
+git pull
+npm i
+npm run dev
+cd Basico_FE
+git pull origin feats/package
+npm i
+npm run dev
+ls
+git pull
+git pull origin feats/package
+git branch
+docker-stop
+docker-start;sudo docker-compose up -d
+npm run dev
+nvim
+clear
+ff
+clear
+pwd
+git pull origin feats/package
+git pull
+sudo docker-compose up -d
+git pull
+nvim
+sudo docker-compose down --volumes --remove-orphans --rmi all<\n>
+sudo docker-compose up -d
+git checkout -b main
+git pull origin main
+ls
+sudo docker-compose down --volumes --remove-orphans --rmi all<\n>
+sudo docker-compose up -d
+git status
+git log
+ls
+cd ..
+ls
+cd Services.Packages.API
+dotnet buil
+dotnet build
+cd ..
+ls
+cd LawBasico.Services.PackageUsers
+ls
+nvim 
+sudo docker-compose up -d
+ls
+git pull origin feats/package
+ls
+pwd
+clear
+ls
+git pull origin feats/package --rebase
+git pull rebase
+ls
+cd speaker_order
+cd AndroidStudioProjects/speaker_order
+ls
+nvim
+cd AndroidStudioProjects/speaker_order
+xhuyz
+cd AndroidStudioProjects/speaker_order
+nvim
+clear
+pwd
+cd AndroidStudioProjects/speaker_order
+ip a
+curl ifconfig.me<\n>
+curl ipinfo.io/ip<\n>
+waydroid-restart;waydroid show-full-ui
+wget https://raw.githubusercontent.com/m1k1o/neko/master/docker-compose.yaml
+wget https://raw.githubusercontent.com/m1k1o/neko/master/docker-compose.yaml<\n>sudo docker compose up -d
+git clone https://github.com/m1k1o/neko.git
+cd neko
+sudo docker-compose up -d
+docker-start
+docker-status
+sudo docker-compose up -d
+cd AndroidStudioProjects/speaker_order
+adb install -r app-release.apk<\n>
+waydroid-restart;waydroid show-full-ui
+waydroid-stop
+adb install -r app-release.apk<\n>
+waydroid-stop
+adb install -r app-release.apk<\n>
+ls
+cd Basico_FE
+git checkout -b main
+ls
+git checkout main
+ls
+cd ..
+rm -rf Basico_FE
+git clone https://github.com/reflection-paradise/Basico_FE.git 
+ls
+cd Basico_FE
+npm i
+npm run dev
+pwd
+clear
+pwd
+clear
+pwd
+cd 
+cd retake-prn
+cd prn231/be
+ls
+cd retake-prn
+ls
+git pull
+git status
+ls
+cd AuthService
+dotnet run
+ls
+cd API
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+pwd
+clear
+cd SP25_SWP391_HarmonyHub_FE
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+npm run dev
+cd prn231/be
+ls
+cd retake-prn
+ls
+git pull
+git status
+git log
+clear
+ls
+cd Basico_FE
+ls
+git pull
+git status
+ls
+npm i
+chmod +x runall.sh
+bash runall.sh
+dotnet restore
+cd APIGateway
+dotnet run
+cd API
+bash runall.sh
+cd ..
+bash runall.sh
+nvim
+ls
+pwd
+clear
+ls
+cd Services.Packages
+ls
+cd Services.Packages.API
+dotnet run
+clear
+pwd
+clear
+cd
+cd prn231/be
+ls
+cd retake-prn
+git checkout ducanh
+ls
+git pull
+git pull origin ducanh
+ls
+cd AuthService
+ls
+cd API
+dotnet run
+npm run dev
+git checkout ducanh
+ls
+git pull 
+npm i
+git checkout main
+git status
+git restore
+git restore .
+git checkout main
+git pull
+git status
+git pull origin main
+git checkout ducanh
+git merge main 
+git status
+git add .
+git commit -m "update"
+git push origin ducanh
+cd prn231/be
+cd retake-prn
+git checkout main
+git pull origin main
+ls
+cd AuthService
+ls
+cd API
+npm run dev
+git checkout main
+git pull
+npm i
+nvim
+gemini
+npm run dev
+dotnet run
+clear
+cd ..
+ls
+chmod +x runall.sh
+bash runall.sh
+docker start
+docker-start
+docker-status
+bash runall.sh
+nvim runall.sh
+ls
+cd AuthService/API
+dotnet run
+docker-stop
+dotnet run
+sudo lsof -i :5114<\n>
+sudo netstat -tuln | grep 5114<\n>
+yay -S netstat
+ls
+pwd
+clear
+pwd
+clear
+nvim
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+npm i
+git status
+ls
+npm run dev
+cd prn231/be
+cd retake-prn
+ls
+cd DocumentService
+ls
+cd DocumentSerivce
+ls
+cd API
+sudo tlp start
+clear
+pwd
+ff
+clear
+cd AndroidStudioProjects/speaker_order
+cd .config/nvim
+ls
+nvim
+yay -S groovy-language-server
+yay -S groovyls
+xhuyz
+git clone https://github.com/GroovyLanguageServer/groovy-language-server.git;cd groovy-language-server
+ls
+gemini
+./gradlew build
+clear
+which groovy
+which groovy-language-server
+ls
+nvim
+nvim
+ls
+clear
+clear
+pwd
+ff
+clear
+waydroid-start;waydroid show-full-ui
+clear
+pwd
+ff
+pfetch
+clear
+pwd
+ff
+clear
+sudo lazysys
+clear
+docker-status
+waydroid-start;waydroid show-full-ui
+waydroid-restart;waydroid show-full-ui
+nvim
+git branch feat/xhuyz
+ls
+git branch
+nvim
+git checkout feat/xhuyz
+nvim
+ls
+git checkout develop
+ls
+pwd
+git log
+waydroid-restart
+yay -S waydroid-image-gapps
+pwd
+ff
+clear
+pwd
+clear
+ff
+pwd
+ff
+clear
+pwd
+ff
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+pacman -Q waydroid-image
+ff
+yay -Syyu
+clear
+yay -Syyu
+yay -S waydroid-image-gapps
+waydroid-restart;waydroid show-full-ui
+sudo waydroid show-full-ui<\n>
+waydroid-stop
+waydroid-start;waydroid show-full-ui
+sudo waydroid show-full-ui<\n>
+sudo -E waydroid show-full-ui<\n>
+sudo systemctl start waydroid-container
+waydroid-start;waydroid show-full-ui
+waydroid show-full-ui
+waydroid log<\n>
+sudo ip link add name waydroid0 type bridge<\n>
+sudo pacman -S iproute2 bridge-utils<\n>
+sudo systemctl restart waydroid-container<\n>waydroid show-full-ui<\n>
+uname -r<\n>
+xhuyz
+sudo systemctl restart waydroid-container;waydroid show-full-ui<\n>
+sudo systemctl restart 
+sudo systemctl reboot
+cd AndroidStudioProjects/speaker_order
+ls
+git branch
+pwd
+ff
+clear
+pwd
+nvim
+git checkout feat/xhuyz
+git log
+git push 
+git push origin feat/xhuyz
+git log
+git status
+git push --set-upstream origin feat/xhuyz
+git push --set-upstream origin feat/xhuyz --force
+git checkout main
+git branch test/push
+git checkout test/push
+git pull origin develop
+cd ..
+ls
+rm -rf speaker_order
+git clone https://github.com/ai-nghia/speaker_order.git
+clea
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clea
+clear
+cd .config/
+cd postgresql
+fzf
+curl -fsSL https://tailscale.com/install.sh | sh
+sudo tailscale up
+pw
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+ff
+cleawr
+ip a
+sudo tailscale down
+ip a
+clear
+yay -S zen-browser
+cd /etc/os-release
+ls
+pwd
+clear
+ff
+clear
+pwd
+nvim /etc/os-release
+clear
+docker version
+owd
+pwd
+clear
+sudo docker ps
+ls
+git clone https://github.com/XhuyZ/fake-commits
+git clone https://github.com/XhuyZ/fake-commit
+cd fake-commit
+bash run_10.sh
+sudo bash run_10.sh
+git --version
+chmod +x run_10.sh
+chmod +x 1_1_25.sh
+bash run_10.sh
+chmod +x endgame2.sh
+bash endgame2.sh
+8
+nvim
+clear
+pwd
+clear
+yay -S zen-adblocker-bin
+clear
+disk
+cd nixvim
+yay -S nix
+cd
+cd nixvim
+ls
+nix develop --impure
+sudo nix develop --impure
+pwd
+clear
+ff
+clear
+pwd
+clear
+ls
+nvim
+ls
+pwd
+clear
+pwd
+clear
+cd 
+cd .config/nvim
+ls
+gemini
+yay -S nil
+yay -S nil-language-server
+nvim
+yay -S nixd
+clear
+pwd
+ff
+clear
+pwd
+cd
+cd nixvim
+s
+l
+nvim
+pwd
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+exit
+git clone https://github.com/paperwm/PaperWM.git;cd PaperWM;bash install.sh
+gnome-extensions enable paperwm@paperwm.github.com
+bash install.sh
+pwd
+clear
+pwd
+ff
+clear
+docker-start
+docker-status
+pwd
+clear
+pwd
+ff
+clear
+sudo lazydocker
+docker-stop
+clear
+cd .config/kitty
+ls
+cd xhuyz-nix-flakes
+ls
+cd home
+ls
+pwd
+clear
+pwd
+f
+pwd
+clear
+waydroid-start;waydroid show-full-ui
+clear
+cd nixvim
+ls
+cd SP25_SWP391_HarmonyHub_FE
+cmatrix
+clear
+pwd
+ff
+clear
+ff
+pwd
+lsd
+pwd
+clear
+ls
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+mkdir NESTJS
+cd NESTJS
+nest new .
+ls
+npm start:dev
+npm start
+nest g module user
+nest g controller user
+nest g entity user
+npm start:dev
+cd NESTJS
+ls
+npm start
+ip a
+cd neko
+sudo docker-compose up -d
+docker-start;
+sudo docker-compose up -d
+ip a
+curl ifconfig.me<\n>
+curl ipinfo.io/ip<\n>
+nslookup xhuyz.me<\n>
+dig xhuyz.me +short<\n>
+nslookup xhuyz.me<\n>
+curl ipinfo.io/ip
+nslookup xhuyz.me<\n>
+yay -S ufw
+sudo ufw allow 8080/tcp
+sudo netstat -tulnp | grep 8080<\n>
+yay -S netstat
+netstat -tulnp | grep 8080
+yay -S netstat
+sudo pacman -S netstat
+sudo ss -tulnp | grep 8080<\n>
+sudo ufw allow 8080/tcp<\n>sudo ufw allow 8080/tcp<\n>
+nslookup xhuyz.me<\n>
+curl http://14.191.230.174:8080<\n>
+ping http://14.191.230.174:8080<\n>
+sudo iptables -A INPUT -p tcp --dport 8080 -j ACCEPT<\n>
+nslookup xhuyz.me<\n>
+dig ns xhuyz.me +short<\n>
+sudo systemd-resolve --flush-caches<\n>
+dig xhuyz.me @1.1.1.1<\n>
+nslookup xhuyz.me 1.1.1.1<\n>
+sudo docker ps
+sudo ufw status<\n>
+sudo docker ps<\n>
+curl -v http://14.191.230.174:8080<\n>
+curl -fsSL https://tailscale.com/install.sh | sh
+sudo tailscale up
+tailscale serve tcp 8080 http://localhost:8080<\n>
+tailscale funnel enable<\n>
+sudo tailscale funnel enable<\n>
+tailscale serve tcp 8080 http://localhost:8080<\n>
+sudo ss -tulnp | grep 8080<\n>
+curl ifconfig.me<\n>
+ip route<\n>
+sudo ss -tulnp | grep 8080<\n>
+sudo ufw status<\n>
+ssudo tailscale serve --https xhuyz.me http://localhost:8080<\n>
+sudo tailscale serve --https xhuyz.me http://localhost:8080<\n>
+sudo tlp stat
+sudo tlp-stat
+cd AndroidStudioProjects/
+ls
+rm -rf speaker_order
+ls
+git clone https://github.com/ai-nghia/speaker_order.git
+ls
+cd prm392/fe/
+ks
+ls
+cd FMA_FE
+nvim
+cd sp
+cd speaker_order
+l
+ssh xhuyz@192.168.1.255
+ssh xhuyz@192.168.1.255
+ip a
+clear
+ssh xhuyz@192.168.1.255
+xhuyz
+ssh xhuyz@192.168.1.11
+ssh xhuyz@192.168.1.255
+ssh 192.168.1.255
+ssh xhuyz@192.168.1.11
+clear
+clear
+pwd
+clear
+pwd
+f
+ff
+clear
+pwd
+clear
+ff
+clear
+ssh xhuyz@192.168.1.11
+ssh xhuyz@192.168.1.11
+clear
+pwd
+clear
+git clone https://code.m3ta.dev/m3tam3re/nix-flake-templates.git
+cd nix-flake-templates
+ls
+git clone https://github.com/XhuyZ/xhuyz-nix-flakes.git
+cd xhuyz-nix-flakes
+ls
+nvim
+rm -rf .git
+git add .
+git init
+git add .
+nix flake update
+sudo nix flake update
+nix flake check
+sudo nix flake check
+git status
+gh repo create
+ls
+git status
+git remote add origin https://github.com/XhuyZ/nix-flake-templates
+git commit -m "init"
+git branch -M main
+git push origin main
+nvim
+sudo nix flake check
+clear
+pwd
+clear
+pwd
+nix run github:nix-community/nixos-anywhere -- --flake .#nixos xhuyz@192.168.1.11
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#nixos xhuyz@192.168.1.11
+ssh xhuyz@192.168.1.11
+clear
+ip a
+clear
+cd neko
+ls
+sudo docker-compose up -d
+docker-start
+sudo docker-compose up -d
+docker-stop
+clear
+serman
+clear
+pwd
+ff
+clear
+cd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+ssh xhuyz@10.0.2.15
+cd nix-flake-templates
+ls
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#nixos xhuyz@192.168.1.16
+ssh xhuyz@192.168.1.16
+cd nix-flake-templates
+gemini
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#nixos xhuyz@192.168.1.16
+lsd
+ls
+nvim
+git add .
+git log
+git status
+git commit -m "init2"
+git add .
+git submodule update --init --recursive<\n>
+git add .
+ls
+rm -rf flake.lock
+git add .
+clear
+git rm --cached nix-flake-templates<\n>rm -rf .git/modules/nix-flake-templates<\n>
+cd
+git rm --cached nix-flake-templates<\n>rm -rf .git/modules/nix-flake-templates<\n>
+cd nix-flake-templates
+ls
+git add .
+ls
+nvim
+git add .
+ls
+git status
+ls
+rm -rf nix-flake-templates
+ls
+nvim
+ls
+cd 
+rm -rf nix-flake-templates
+sudo rm -rf nix-flake-templates/
+clear
+git clone https://github.com/XhuyZ/nix-flake-templates.git
+ls
+cd nix-flake-templates
+ls
+cd
+cd nix-flake-templates
+git add .
+nvim
+sudo nix flake check
+nvim
+git status
+clear
+pwd
+ff
+clear
+pwd
+clear
+ff
+clear
+pwd
+clear
+ff
+clear
+ff
+clear
+nvim
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+nvim
+ls
+cd nixos/vps
+ls
+nix flake check
+sudo nix flake check
+nvim
+cd ..
+nvim
+cd vps
+sudo nix flake check
+nvim
+nix flake check
+sudo nix flake check
+nvim
+git add .
+sudo nix flake check
+nvim
+git add .
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+cd ..
+nvim
+git add .
+cd vps
+sudo nix flake check
+nvim
+git add .
+sudo nix flake check
+nvim
+git add .
+git commit -m "init3"
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+git add .
+git commit -m "comment overlay"
+sudo nix flake check
+nvim
+cd ..
+nvim
+git add .
+git commit -m "uncomment overlays"
+sudo nix flake check
+cd vps
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+git add .
+lazygit
+sudo nix flake check
+rm -rf flake.lock
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+grep -rn './hosts/pkgs' ./nixos/vps<\n>
+cd
+grep -rn './hosts/pkgs' ./nixos/vps<\n>
+cd nix-flake-templates
+grep -rn './hosts/pkgs' ./nixos/vps<\n>
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+clear
+cd nix-flake-templates/nixos/standard
+nvim
+cd
+kitten ssh xhuyz@192.168.1.9
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#nixos xhuyz@192.168.1.9
+clear
+pwd
+ff
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+cd nix-flake-templates/nixos/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop xhuyz@192.168.1.9
+kitten ssh xhuyz@192.168.1.9
+cd
+git status
+sudo nix flake check
+lazygit
+git log
+nvim
+git log
+git push origin main
+nvim
+kitten ssh xhuyz@192.168.1.9
+kitten ssh root@192.168.1.9
+ssh xhuyz@192.168.1.9
+kitten ssh root@192.168.1.9
+kitten ssh xhuyz@192.168.1.9
+kitten ssh xhuyz@192.168.1.9
+pwd
+cd nix-flake-templates/nixos/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.9
+ip a
+pkill Disks
+gnome-disks
+sudo gnome-disks
+yay -S gnome-disks
+yay -S etcher
+ssh xhuyz@192.168.1.13
+kitten ssh xhuyz@192.168.1.13
+cd nix-flake-templates/nixos/vps
+kitten ssh xhuyz@192.168.1.13
+kitten ssh root@192.168.1.13
+nvim
+ls
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim
+clear
+pwd
+cd ..
+cp -r vps/ ~/test/vps
+ls
+cd
+cd test/vps
+ls
+git init
+gh repo create
+ls
+git branch -M main
+ls
+cd vps
+ls
+cd ..
+ls
+rm -rf vps
+git remote add origin https://github.com/XhuyZ/vps
+ls
+git add .
+git push origin main
+git add ,
+git commit -m "init"
+git push origin main
+nvim
+clear
+cd
+cd test/vps
+ls
+pwd
+clear
+pwd
+clear
+pwd
+clear
+pwd
+clear
+kitten ssh xhuyz@192.168.1.13
+kitten ssh root@192.168.1.13
+ssh-keygen -R 192.168.1.13<\n>
+kitten ssh root@192.168.1.13
+kitten ssh xhuyz@192.168.1.13
+kitten ssh root@192.168.1.13
+ls
+kitten ssh xhuyz@192.168.1.13
+cd test/vps
+nvim
+ls
+nvim
+kitten ssh root@192.168.1.13
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+cd test/vps
+nvim
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+clear
+nvim
+kitten ssh root@192.168.1.13
+ssh-keygen -R 192.168.1.13<\n>
+kitten ssh root@192.168.1.13
+kitten ssh root@192.168.1.13
+cd test/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim
+git clone https://code.m3ta.dev/m3tam3re/nixos-config.git
+cd nixos-config
+lazygit
+sudo nix flake check
+ls
+lazygit
+nvim
+ssh-keygen -R 192.168.1.13<\n>
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+ssh-keygen -R 192.168.1.13<\n>
+kitten ssh root@192.168.1.13
+cd test/vps
+kitten ssh root@192.168.1.13
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim configuration.nix
+pwd
+pdw
+cd test/vps
+lazygit
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+kitten ssh root@192.168.1.13
+nvim configuration.nix
+clear
+ssh-keygen -R 192.168.1.13<\n>
+cd test/vps
+nvim
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+kitten ssh root@192.168.1.13
+nvim
+nvim configuration.nix
+cd test/vps
+ls
+nvim 
+cd test/vps
+nvim
+kitten ssh root@192.168.1.13
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim
+ls
+lazygit
+cxd
+cd
+kitten ssh root@192.168.1.13
+ping google.com
+kitten ssh root@192.168.1.13
+cd test/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim
+lazygit
+sudo nix flake check
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+cd test/vps
+sudo nix flake check
+kitten ssh root@192.168.1.13
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+cd test/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+cd test/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+ssh-keygen -R 192.168.1.13<\n>
+ping google.com
+cd test/vps
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop root@192.168.1.13
+nvim
+kitten ssh root@192.168.1.13
+ssh root@192.168.1.13
+kitten ssh root@192.168.1.13
+ssh-keygen -R 192.168.1.13<\n>
+kitten ssh root@192.168.1.13
+ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no root@192.168.1.13<\n>
+cd test/vps
+sudo nix flake check
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop nixos@192.168.1.13
+nvim
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop nixos@192.168.1.13
+lazygit
+sudo nix flake check
+kitten ssh nixos@192.168.1.13
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop nixos@192.168.1.13
+kitten ssh root@192.168.1.13
+nvim
+sudo nix flake check
+nvim
+lazygit
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+sudo nix flake check
+nvim
+lazygit
+sudo nix flake check
+kitten ssh nixos@192.168.1.13
+ssh-keygen -R 192.168.1.13<\n>
+nvim
+ls
+git log
+kitten ssh nixos@192.168.1.13
+sudo nix run github:nix-community/nixos-anywhere -- --flake .#develop nixos@192.168.1.13
+nvim
+lazygit
+cd xhuyz-nix-flakes
+ls
+nvim
+cd home
+ls
+cp -r programs/ ~/test/vps/home/xhuyz
+cd .config/nushell
+ls
+

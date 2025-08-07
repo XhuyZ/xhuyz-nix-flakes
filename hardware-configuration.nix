@@ -6,16 +6,10 @@
 {
   imports = [ ];
 
-  boot.initrd.availableKernelModules = [ "ata_piix" "mptspi" "uhci_hcd" "ehci_pci" "ahci" "sd_mod" "sr_mod" ];
+  boot.initrd.availableKernelModules = [ "ata_piix" "mptspi" "uhci_hcd" "ehci_pci" "ahci" "sd_mod" "sr_mod" "nvme" "xhci_pci" "usbhid" ];
   boot.initrd.kernelModules = [ ];
   boot.kernelModules = [ ];
   boot.extraModulePackages = [ ];
-
-  fileSystems."/" =
-    { device = "/dev/disk/by-uuid/849c8f03-f6ac-4c53-ab37-307ae62a1aeb";
-      fsType = "ext4";
-    };
-
   swapDevices = [ ];
 
   # Enables DHCP on each ethernet and wireless interface. In case of scripted networking
@@ -26,4 +20,5 @@
   # networking.interfaces.ens33.useDHCP = lib.mkDefault true;
 
   nixpkgs.hostPlatform = lib.mkDefault "x86_64-linux";
+  hardware.cpu.intel.updateMicrocode = lib.mkDefault config.hardware.enableRedistributableFirmware;
 }
